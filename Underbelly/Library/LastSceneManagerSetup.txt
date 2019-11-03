@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/Spawn.unity
+=======
 - path: Assets/Scenes/GoodEnd.unity
+>>>>>>> c2edeafd2ebcb419f564cd3db01b859a3dae144f
   isLoaded: 1
   isActive: 1
   isSubScene: 0
