@@ -1,7 +1,547 @@
 fileFormatVersion: 2
 guid: 559adeee7767ea54b909636ff848a2b6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -9096742763825631198
+    second: controllerscreen_0
+  - first:
+      213: 5196981026933643238
+    second: controllerscreen_1
+  - first:
+      213: 4927137160717355009
+    second: controllerscreen_2
+  - first:
+      213: 2324244964077716035
+    second: controllerscreen_3
+  - first:
+      213: -3362212995329607760
+    second: controllerscreen_4
+  - first:
+      213: 1545758083191652626
+    second: controllerscreen_5
+  - first:
+      213: -7190249114368647396
+    second: controllerscreen_6
+  - first:
+      213: -4229114286967024762
+    second: controllerscreen_7
+  - first:
+      213: -531702751870760020
+    second: controllerscreen_8
+  - first:
+      213: 7200821289254218023
+    second: controllerscreen_9
+  - first:
+      213: -7024720189075491562
+    second: controllerscreen_10
+  - first:
+      213: 5086967959088754375
+    second: controllerscreen_11
+  - first:
+      213: 3432795227486626293
+    second: controllerscreen_12
+  - first:
+      213: 3688002501208962663
+    second: controllerscreen_13
+  - first:
+      213: -5552804315410547806
+    second: controllerscreen_14
+  - first:
+      213: 9159143479187882947
+    second: controllerscreen_15
+  - first:
+      213: 4140253609624845109
+    second: controllerscreen_16
+  - first:
+      213: -1228898758004571674
+    second: controllerscreen_17
+  - first:
+      213: 4210424817399715648
+    second: controllerscreen_18
+  - first:
+      213: 179801246363984123
+    second: controllerscreen_19
+  - first:
+      213: 7794581486563001362
+    second: controllerscreen_20
+  - first:
+      213: -8208629561080222022
+    second: controllerscreen_21
+  - first:
+      213: 4802540100948837241
+    second: controllerscreen_22
+  - first:
+      213: 8676803318574905866
+    second: controllerscreen_23
+  - first:
+      213: 6700422735455902671
+    second: controllerscreen_24
+  - first:
+      213: 9116960006531445849
+    second: controllerscreen_25
+  - first:
+      213: -299623519548689853
+    second: controllerscreen_26
+  - first:
+      213: -1173521162476674276
+    second: controllerscreen_27
+  - first:
+      213: 5852956029881271845
+    second: controllerscreen_28
+  - first:
+      213: 3967436462445567302
+    second: controllerscreen_29
+  - first:
+      213: 6577396729908408482
+    second: controllerscreen_30
+  - first:
+      213: 982297799185515985
+    second: controllerscreen_31
+  - first:
+      213: -5019240543165688382
+    second: controllerscreen_32
+  - first:
+      213: 857752934544611696
+    second: controllerscreen_33
+  - first:
+      213: -4842853741866434977
+    second: controllerscreen_34
+  - first:
+      213: -2480161701727409006
+    second: controllerscreen_35
+  - first:
+      213: 1480797150385241627
+    second: controllerscreen_36
+  - first:
+      213: -2660841937200311094
+    second: controllerscreen_37
+  - first:
+      213: 7926773394076025857
+    second: controllerscreen_38
+  - first:
+      213: 5350764470067490746
+    second: controllerscreen_39
+  - first:
+      213: 5811924219334541550
+    second: controllerscreen_40
+  - first:
+      213: 7794801864936746031
+    second: controllerscreen_41
+  - first:
+      213: -7514358758861549431
+    second: controllerscreen_42
+  - first:
+      213: -7055949740352923743
+    second: controllerscreen_43
+  - first:
+      213: 3044466072621423610
+    second: controllerscreen_44
+  - first:
+      213: 776700292737414761
+    second: controllerscreen_45
+  - first:
+      213: 7995752258580415253
+    second: controllerscreen_46
+  - first:
+      213: 4203794705062976563
+    second: controllerscreen_47
+  - first:
+      213: -4112617133989632712
+    second: controllerscreen_48
+  - first:
+      213: -6273794802129142537
+    second: controllerscreen_49
+  - first:
+      213: 1426055109049439403
+    second: controllerscreen_50
+  - first:
+      213: 136445259455850695
+    second: controllerscreen_51
+  - first:
+      213: -5181080696637913929
+    second: controllerscreen_52
+  - first:
+      213: -4001689608457968769
+    second: controllerscreen_53
+  - first:
+      213: 6856285088567885951
+    second: controllerscreen_54
+  - first:
+      213: 2915551828457219315
+    second: controllerscreen_55
+  - first:
+      213: 1030608890168442221
+    second: controllerscreen_56
+  - first:
+      213: 5751292042646633846
+    second: controllerscreen_57
+  - first:
+      213: 1332276566547808976
+    second: controllerscreen_58
+  - first:
+      213: -4669392166847411026
+    second: controllerscreen_59
+  - first:
+      213: 3951912615817755349
+    second: controllerscreen_60
+  - first:
+      213: 5328461765034658553
+    second: controllerscreen_61
+  - first:
+      213: -7224779122065451454
+    second: controllerscreen_62
+  - first:
+      213: -268657917494317125
+    second: controllerscreen_63
+  - first:
+      213: -5875598159967473500
+    second: controllerscreen_64
+  - first:
+      213: 7003150218050747983
+    second: controllerscreen_65
+  - first:
+      213: 202227641500449680
+    second: controllerscreen_66
+  - first:
+      213: 8597351133884654758
+    second: controllerscreen_67
+  - first:
+      213: -8407481348653247485
+    second: controllerscreen_68
+  - first:
+      213: -3436144095224486359
+    second: controllerscreen_69
+  - first:
+      213: 936242803675726705
+    second: controllerscreen_70
+  - first:
+      213: 6143015840692346590
+    second: controllerscreen_71
+  - first:
+      213: -7149848985159551814
+    second: controllerscreen_72
+  - first:
+      213: 179035770483772528
+    second: controllerscreen_73
+  - first:
+      213: -2802073784589054768
+    second: controllerscreen_74
+  - first:
+      213: 514918340115165265
+    second: controllerscreen_75
+  - first:
+      213: -6175768394170932784
+    second: controllerscreen_76
+  - first:
+      213: 4088685546733249112
+    second: controllerscreen_77
+  - first:
+      213: 39098769781050018
+    second: controllerscreen_78
+  - first:
+      213: 2704577628418754455
+    second: controllerscreen_79
+  - first:
+      213: 1363830971287146123
+    second: controllerscreen_80
+  - first:
+      213: 1433465646907485526
+    second: controllerscreen_81
+  - first:
+      213: 8583442560351363278
+    second: controllerscreen_82
+  - first:
+      213: 6572070451485548789
+    second: controllerscreen_83
+  - first:
+      213: 3546054376445758904
+    second: controllerscreen_84
+  - first:
+      213: 7167053218623887439
+    second: controllerscreen_85
+  - first:
+      213: -7138622832652059024
+    second: controllerscreen_86
+  - first:
+      213: -1742894097145008819
+    second: controllerscreen_87
+  - first:
+      213: 5232830912587915476
+    second: controllerscreen_88
+  - first:
+      213: 3567423391984302494
+    second: controllerscreen_89
+  - first:
+      213: -6270695464328963393
+    second: controllerscreen_90
+  - first:
+      213: -1328409285165061388
+    second: controllerscreen_91
+  - first:
+      213: -209830392528311068
+    second: controllerscreen_92
+  - first:
+      213: -6174958633509902973
+    second: controllerscreen_93
+  - first:
+      213: -2897164438380364468
+    second: controllerscreen_94
+  - first:
+      213: 753784264622103316
+    second: controllerscreen_95
+  - first:
+      213: 6882923886929094278
+    second: controllerscreen_96
+  - first:
+      213: 2894526237721456941
+    second: controllerscreen_97
+  - first:
+      213: 939317717185647439
+    second: controllerscreen_98
+  - first:
+      213: -9079820144875607037
+    second: controllerscreen_99
+  - first:
+      213: 6722113957206573167
+    second: controllerscreen_100
+  - first:
+      213: 4088927582087550979
+    second: controllerscreen_101
+  - first:
+      213: -9092897032679663193
+    second: controllerscreen_102
+  - first:
+      213: -6620740624900950092
+    second: controllerscreen_103
+  - first:
+      213: 7584617129101891404
+    second: controllerscreen_104
+  - first:
+      213: -7317835374542203808
+    second: controllerscreen_105
+  - first:
+      213: 4208958893396061001
+    second: controllerscreen_106
+  - first:
+      213: -5668942555027248917
+    second: controllerscreen_107
+  - first:
+      213: -446410188032438764
+    second: controllerscreen_108
+  - first:
+      213: -137891040650104988
+    second: controllerscreen_109
+  - first:
+      213: -1227550478271150137
+    second: controllerscreen_110
+  - first:
+      213: 6848618231156287657
+    second: controllerscreen_111
+  - first:
+      213: -2120024002382370019
+    second: controllerscreen_112
+  - first:
+      213: -176671625071148815
+    second: controllerscreen_113
+  - first:
+      213: 6639033026432582971
+    second: controllerscreen_114
+  - first:
+      213: -5545790040391611560
+    second: controllerscreen_115
+  - first:
+      213: 2689029163455590097
+    second: controllerscreen_116
+  - first:
+      213: -3625340692249000676
+    second: controllerscreen_117
+  - first:
+      213: 415620379704620102
+    second: controllerscreen_118
+  - first:
+      213: -2784347626603670390
+    second: controllerscreen_119
+  - first:
+      213: -4302586931832314017
+    second: controllerscreen_120
+  - first:
+      213: 2335910748517507698
+    second: controllerscreen_121
+  - first:
+      213: 4904843260924402892
+    second: controllerscreen_122
+  - first:
+      213: -6758689433882239621
+    second: controllerscreen_123
+  - first:
+      213: -312050073382280529
+    second: controllerscreen_124
+  - first:
+      213: -1182396390723891737
+    second: controllerscreen_125
+  - first:
+      213: 5287340137138005076
+    second: controllerscreen_126
+  - first:
+      213: -7248896050023387778
+    second: controllerscreen_127
+  - first:
+      213: 249259466878204982
+    second: controllerscreen_128
+  - first:
+      213: 5278962848170671288
+    second: controllerscreen_129
+  - first:
+      213: -5587912494934938390
+    second: controllerscreen_130
+  - first:
+      213: 2170394492064964298
+    second: controllerscreen_131
+  - first:
+      213: -5734723712789901147
+    second: controllerscreen_132
+  - first:
+      213: -6036500165815575285
+    second: controllerscreen_133
+  - first:
+      213: 3354479791833121261
+    second: controllerscreen_134
+  - first:
+      213: 5119483673057076948
+    second: controllerscreen_135
+  - first:
+      213: 8524319178928052620
+    second: controllerscreen_136
+  - first:
+      213: -8148130754935547516
+    second: controllerscreen_137
+  - first:
+      213: -7216638993753188352
+    second: controllerscreen_138
+  - first:
+      213: -7944130726687377543
+    second: controllerscreen_139
+  - first:
+      213: 3323025654460077553
+    second: controllerscreen_140
+  - first:
+      213: 2524251789893548599
+    second: controllerscreen_141
+  - first:
+      213: -1545777546944571123
+    second: controllerscreen_142
+  - first:
+      213: -3434886539873978284
+    second: controllerscreen_143
+  - first:
+      213: -8942065700961638300
+    second: controllerscreen_144
+  - first:
+      213: -3161558010089753679
+    second: controllerscreen_145
+  - first:
+      213: -5921952974584677369
+    second: controllerscreen_146
+  - first:
+      213: -6315205700546035858
+    second: controllerscreen_147
+  - first:
+      213: -6192390981299957734
+    second: controllerscreen_148
+  - first:
+      213: -5429712707873719373
+    second: controllerscreen_149
+  - first:
+      213: 7002407686804779288
+    second: controllerscreen_150
+  - first:
+      213: 1467556708833261139
+    second: controllerscreen_151
+  - first:
+      213: 4341360958182361905
+    second: controllerscreen_152
+  - first:
+      213: 7126933399692502810
+    second: controllerscreen_153
+  - first:
+      213: -3064166818397644032
+    second: controllerscreen_154
+  - first:
+      213: -2007323989875502035
+    second: controllerscreen_155
+  - first:
+      213: 7362136503870814748
+    second: controllerscreen_156
+  - first:
+      213: -511059770945538877
+    second: controllerscreen_157
+  - first:
+      213: -1890253243189682206
+    second: controllerscreen_158
+  - first:
+      213: -7062961309040026460
+    second: controllerscreen_159
+  - first:
+      213: -3692037804389368450
+    second: controllerscreen_160
+  - first:
+      213: 447545626347338225
+    second: controllerscreen_161
+  - first:
+      213: 8196452649909791378
+    second: controllerscreen_162
+  - first:
+      213: 399673350017092815
+    second: controllerscreen_163
+  - first:
+      213: 1670538985028100517
+    second: controllerscreen_164
+  - first:
+      213: -142255859618174997
+    second: controllerscreen_165
+  - first:
+      213: 2014338443277958308
+    second: controllerscreen_166
+  - first:
+      213: -4345197309104487583
+    second: controllerscreen_167
+  - first:
+      213: -1690988290981112825
+    second: controllerscreen_168
+  - first:
+      213: 3135656866715128172
+    second: controllerscreen_169
+  - first:
+      213: -4728039747956221960
+    second: controllerscreen_170
+  - first:
+      213: -329366617971224746
+    second: controllerscreen_171
+  - first:
+      213: 7531748631903437942
+    second: controllerscreen_172
+  - first:
+      213: 3487648476713725413
+    second: controllerscreen_173
+  - first:
+      213: 1173404509890044156
+    second: controllerscreen_174
+  - first:
+      213: -1285522144194516750
+    second: controllerscreen_175
+  - first:
+      213: -6189956413436514243
+    second: controllerscreen_176
+  - first:
+      213: -5855142950728322732
+    second: controllerscreen_177
+  - first:
+      213: -8146394854643699911
+    second: controllerscreen_178
+  - first:
+      213: -3498263570198635768
+    second: controllerscreen_179
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +580,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +610,3801 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: controllerscreen_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577fa6178fc47944a003559e06ed234
+      internalID: -9096742763825631198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a36a105aff0984c8a47ae7b1b5ef45
+      internalID: 5196981026933643238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaa55e13a78b734fbf2dff00ab82507
+      internalID: 4927137160717355009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b484afd4a0c8d3944aa19dfeb020115a
+      internalID: 2324244964077716035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e9e2ed208e9846acc3e4b155489e6
+      internalID: -3362212995329607760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae0c69bdb5ffd4eb5d7e94507ed35b
+      internalID: 1545758083191652626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a5f253e2469534aaeaffe34966cdfe
+      internalID: -7190249114368647396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a9d92136af4d144915bfe80318963b
+      internalID: -4229114286967024762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2d0917a9e6b0740afd4f0f7588cbcc
+      internalID: -531702751870760020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfccf91986d19f44f95a5541aeb8c8fd
+      internalID: 7200821289254218023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d214ead15408045ad6e0c58d09a0df
+      internalID: -7024720189075491562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f18ba815e1a2439aa5978521c586d
+      internalID: 5086967959088754375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f10cbb9294a0940a776d2cc9ef304c
+      internalID: 3432795227486626293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27d1da1e6be9114293254cac071626a
+      internalID: 3688002501208962663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859618b3d95cc92488c5a2bb66d0a7d6
+      internalID: -5552804315410547806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8a584a083315e41bbd93adeff53665
+      internalID: 9159143479187882947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed267bd51f719bc44a0aaaf6ef637d23
+      internalID: 4140253609624845109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92deb68b5a859764bbfac205f3786f9b
+      internalID: -1228898758004571674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d211312054bddb4eb5ee8467c6141cb
+      internalID: 4210424817399715648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95436a64776ed3448bf8530a49ab19b3
+      internalID: 179801246363984123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a976adef795434a9913ed779ef34c1
+      internalID: 7794581486563001362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663531d8853fef041bbd16b020906db4
+      internalID: -8208629561080222022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8b4eccb12706b4f8ced202dfb51a36
+      internalID: 4802540100948837241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754626717a5944440b1dcd1bb804df98
+      internalID: 8676803318574905866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3944082bca4114db36e49590013924
+      internalID: 6700422735455902671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f6c105f7a06674b95fd69079a9df71
+      internalID: 9116960006531445849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0290a70e193714490e8dcd5fa22749
+      internalID: -299623519548689853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9647b27d7ef4e43b11aea4e83e6b49
+      internalID: -1173521162476674276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5680fd05d28f9a74c9f62d788b71053d
+      internalID: 5852956029881271845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff8d3dc54b6ea48bbb83a87fa58f08
+      internalID: 3967436462445567302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bd039fd9accde42ac4949c0d02ca41
+      internalID: 6577396729908408482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abdad5215cb59a449a1a88150096607
+      internalID: 982297799185515985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40cc054db689b8439dc3f20bc49e7d3
+      internalID: -5019240543165688382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cfe232d35a3254fa206ab43205c108
+      internalID: 857752934544611696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76733570e479d04fb1d6769bbe57df6
+      internalID: -4842853741866434977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc1af99898e50468a177f39a20c4a1
+      internalID: -2480161701727409006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3992f0382ab654fbb85bae4a847dbb
+      internalID: 1480797150385241627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180668f15eba6014ba5c0f81b334bf84
+      internalID: -2660841937200311094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e53a4bf8da4314db3a8cad5b6a3e80
+      internalID: 7926773394076025857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd23eeec133e534989d8b2ae9edd9c1
+      internalID: 5350764470067490746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d129b39eeaa1f546ab80df7e247e18f
+      internalID: 5811924219334541550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e832815166fabb41a0793175cb44e5b
+      internalID: 7794801864936746031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c8bd76f8a55bb4a844e4344aa9115b
+      internalID: -7514358758861549431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed508d281e4e8947bc2e3c346242626
+      internalID: -7055949740352923743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_44
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da6ec23177114d429722d1945e46d97
+      internalID: 3044466072621423610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de865981144ff942912035f54805e24
+      internalID: 776700292737414761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c2e6ca711a521479bede940d622285
+      internalID: 7995752258580415253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1705c04e0e35ed04a8344a7dfd026938
+      internalID: 4203794705062976563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14383034eaeb8e2458c66371e6e9ec62
+      internalID: -4112617133989632712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4865c4dd777a6b46aa2dcc4f831b746
+      internalID: -6273794802129142537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd7ab6b88aa0a4dacf85df5a04f502
+      internalID: 1426055109049439403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158f6f6bea9ad49458f12521a4cd08aa
+      internalID: 136445259455850695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_52
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f40980e966ba849a7f593937427ecd
+      internalID: -5181080696637913929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_53
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361a4bbf44212564b981bad620920908
+      internalID: -4001689608457968769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_54
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d573cce487b648995b8f2c2254fa0
+      internalID: 6856285088567885951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e87f101383264cba4d753ba93a0df
+      internalID: 2915551828457219315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_56
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775a91a199fae104786ef6d3c47d7aaf
+      internalID: 1030608890168442221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_57
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d68b134f48d6e745b413b9513e5923d
+      internalID: 5751292042646633846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7922eac67b0adcc41b7c615df1d37cb0
+      internalID: 1332276566547808976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf48bde2557306b4f81ed25186cf3195
+      internalID: -4669392166847411026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758403caa0f624d4eb1a1e59ebcf92ba
+      internalID: 3951912615817755349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1b791d64fe94488cda02359f3630c
+      internalID: 5328461765034658553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76283d58fe2d1ae4e8a34ded969eda00
+      internalID: -7224779122065451454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d223e1098d2f49be0df5f4b9c5773
+      internalID: -268657917494317125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1321d52aafdb2a44db2df8a888edfc3a
+      internalID: -5875598159967473500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1a1328224e52348a904cf4c509887e
+      internalID: 7003150218050747983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8264f31b83d40e340a5d69b7018d2250
+      internalID: 202227641500449680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_67
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122147e6384ce5479b93691d57ed01b
+      internalID: 8597351133884654758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc944620310e91940807383ac8d81bfe
+      internalID: -8407481348653247485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b14631dacd80a438ba88922eb95f27
+      internalID: -3436144095224486359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65980e58ccdaf2545b8f2cb7bfc61a2e
+      internalID: 936242803675726705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_71
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0111125e23c89a428c0ab9c2e2b2af6
+      internalID: 6143015840692346590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_72
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba571f00bbd9a40a023bf81161540f
+      internalID: -7149848985159551814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d0267b36770b246b0fdd1acd5ccbec
+      internalID: 179035770483772528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_74
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8067fced70db746bb69f70aa69b0f0
+      internalID: -2802073784589054768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87851756a3dd611419691e15ed48a68a
+      internalID: 514918340115165265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe6b1368cc0c3a4f9b7061d4c4d601d
+      internalID: -6175768394170932784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_77
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cce681f6a2b9b040a9d32f9e7444459
+      internalID: 4088685546733249112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_78
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f9f8e94624344f8969857265f89eb
+      internalID: 39098769781050018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58b0af17313f4846b71790de79f79b9
+      internalID: 2704577628418754455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491493765008fda42b8861b8f949061e
+      internalID: 1363830971287146123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_81
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b591379b1b6c0242aa709fc650cd898
+      internalID: 1433465646907485526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_82
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece8826a97d0054d95d9d24e685935e
+      internalID: 8583442560351363278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_83
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62029b14309e5f48b69c5f197ee7bc4
+      internalID: 6572070451485548789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_84
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f8709e32d3be844ab5a4744fa439ca
+      internalID: 3546054376445758904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb40a86b0962ac4285ed0af039d25ca
+      internalID: 7167053218623887439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_86
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8bfff24c1fe6c4eb348b3cfcc39894
+      internalID: -7138622832652059024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_87
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2117d274ea34849803881096644822
+      internalID: -1742894097145008819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_88
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3eeeb3d8794f747884742973dcc5a0
+      internalID: 5232830912587915476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_89
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5397887b030624545a40f7c2b4f844e2
+      internalID: 3567423391984302494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6641edf1c6c24d8654563a1cb7720
+      internalID: -6270695464328963393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_91
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af0b6456b3a2f4ba85281381082b69
+      internalID: -1328409285165061388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402bab69a50a74e4f9e61ea2ddeef749
+      internalID: -209830392528311068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe68c6b7236b844a2cbea40c23660e
+      internalID: -6174958633509902973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_94
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bb8f4c6ea7cd3498a876acf857c269
+      internalID: -2897164438380364468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_95
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d0bf202cd12c445ae72e785a841796
+      internalID: 753784264622103316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0562125016d1dd24cbb9683c349e0143
+      internalID: 6882923886929094278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_97
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd73b58709f124091595c6d4777482
+      internalID: 2894526237721456941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_98
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9774b33dfe4030245b5a7ba2871cd4dc
+      internalID: 939317717185647439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_99
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a476ca927439a7847889e3728bf651b0
+      internalID: -9079820144875607037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad1d27a9d6648a4099ff344395af525
+      internalID: 6722113957206573167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_101
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64e0c95da6961d43bf8380d2ea472be
+      internalID: 4088927582087550979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aea8f3590baef4448cff1eed223b2b3
+      internalID: -9092897032679663193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_103
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cb5e65adc1b5949a398641111f3c17
+      internalID: -6620740624900950092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_104
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5362e21c11bd764bbc22957543c02d6
+      internalID: 7584617129101891404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560a34abe7079749a50b2aa87eb2005
+      internalID: -7317835374542203808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_106
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c5689544c9c384c983e357be5f6e79
+      internalID: 4208958893396061001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_107
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cc45417f3bbba4ea7244f55c54f684
+      internalID: -5668942555027248917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_108
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e20473127baa479858776a7317c00
+      internalID: -446410188032438764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_109
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e280cca553416242af560db096a8ffc
+      internalID: -137891040650104988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_110
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4a3927c8094e4793df6c733763059
+      internalID: -1227550478271150137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fbd279b7812054ea6a52d362ff4360
+      internalID: 6848618231156287657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_112
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdb62ca475b7594ebd02aecbafa866d
+      internalID: -2120024002382370019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_113
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f98e9dd49debad4787cccb2f9ebd8f9
+      internalID: -176671625071148815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_114
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e443d56d0f2f4cbe89207ae29af3c
+      internalID: 6639033026432582971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_115
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79025db10f13d34ba89bd0060ab5bb7
+      internalID: -5545790040391611560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e04174f08826a43bd34e4e73ec93ae
+      internalID: 2689029163455590097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_117
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53720d22b1ce1428b9734eed83c57b
+      internalID: -3625340692249000676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_118
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836ba14d075d48e448f1677ddb8ef78a
+      internalID: 415620379704620102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_119
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd4b2c3bc4a1054ab1bbc893655b542
+      internalID: -2784347626603670390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46da5461b9a28d4aaacafc806ec8a0c
+      internalID: -4302586931832314017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e2b0d2d63625478314a396977aca2
+      internalID: 2335910748517507698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_122
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd0940401aad254797c4cb416b2b620
+      internalID: 4904843260924402892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_123
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d7986c344e3f2469aa58f639baebb0
+      internalID: -6758689433882239621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_124
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718da484b8d6004b8883b2be5513456
+      internalID: -312050073382280529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_125
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f63cdbdb010fb429e50ad35dd7ec4d
+      internalID: -1182396390723891737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_126
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18995a483bf415d4890dbcc24651aef8
+      internalID: 5287340137138005076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_127
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9678fb982d1d64492c1b33ea57d312
+      internalID: -7248896050023387778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_128
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3709f55d490dec346b6f595f9ac05880
+      internalID: 249259466878204982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_129
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb9e4212b6143a47926ad4d32f26d1e
+      internalID: 5278962848170671288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_130
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f85ee8ea65084546859688745e89b0b
+      internalID: -5587912494934938390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_131
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d38912f95b50874192e17209a87699d
+      internalID: 2170394492064964298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_132
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772c0d9c78295b04485cbaaf84385cbf
+      internalID: -5734723712789901147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_133
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a085b1ac063ee07448b84024f24d463a
+      internalID: -6036500165815575285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_134
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2ef8bcbee9e584b96542f540e19592
+      internalID: 3354479791833121261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_135
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eff2acd852c58049b0252f41372ab2b
+      internalID: 5119483673057076948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_136
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f492d761d30e0c439a5385cb3d0f9a0
+      internalID: 8524319178928052620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_137
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3229975f42c27d741ae4a7014a03e4f5
+      internalID: -8148130754935547516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_138
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5294024c50d0f634ba6a4c41c2fa0841
+      internalID: -7216638993753188352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_139
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130430c77f722014ea869a96c5ebde85
+      internalID: -7944130726687377543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_140
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf7b3f1d60eff4ea3f6624f7de0dcf
+      internalID: 3323025654460077553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_141
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe4337aa27bd384cb5310897831235f
+      internalID: 2524251789893548599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_142
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3a3b8478526a6428c2f6fd242a5da6
+      internalID: -1545777546944571123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_143
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a9d746f0b43241a95fc42a44dd623
+      internalID: -3434886539873978284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_144
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eca58726ba14e846a71b4c42a55edbe
+      internalID: -8942065700961638300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_145
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e7b990be3ae54d9c9fa1107e16a40
+      internalID: -3161558010089753679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_146
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0a89b1c5359b646ad72a2d62ba0f1c
+      internalID: -5921952974584677369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_147
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4b3d529cc1d7742ac6d6fe17e41258
+      internalID: -6315205700546035858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_148
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaeb44314cdd2a4b859b472f2179934
+      internalID: -6192390981299957734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_149
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087c6e859ed46044588e84ba27582d99
+      internalID: -5429712707873719373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_150
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d201adb6a255684fbeabbb747d1d947
+      internalID: 7002407686804779288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_151
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99290ebb5d002499f339c06087681e
+      internalID: 1467556708833261139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_152
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d276d33e6ebac4cb674d1e74383aaf
+      internalID: 4341360958182361905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_153
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e0dc4c830893049a366c453f7309cd
+      internalID: 7126933399692502810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_154
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682db06275124fc4387f95f5db54e779
+      internalID: -3064166818397644032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_155
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f384598b4af5094a9c2742c08bdecb4
+      internalID: -2007323989875502035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_156
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63958650e7171e94ab53db99759ded35
+      internalID: 7362136503870814748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_157
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9df9b6ba63e2c141a7fe6d02d479e8f
+      internalID: -511059770945538877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_158
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a05fefbaa5301943964a28508eeec22
+      internalID: -1890253243189682206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_159
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718bd034830724e43b8bbad280dbc8da
+      internalID: -7062961309040026460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_160
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe1c96c49082245a5f101bc06d392a
+      internalID: -3692037804389368450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_161
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4abf69bab48824cb407db3c41ca91f
+      internalID: 447545626347338225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_162
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c445d202d6cc345a1b368677d54bfb
+      internalID: 8196452649909791378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_163
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147edf5df2b2e44f982ad60459fbbd6
+      internalID: 399673350017092815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_164
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add508d89cc24c4d9b8c16a10e3f00a
+      internalID: 1670538985028100517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_165
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cea19401b647d409c9f9b392e785a9
+      internalID: -142255859618174997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_166
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a817e5508095b45a79382a49804bba
+      internalID: 2014338443277958308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_167
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a310867d78df4181bc5ed0e3c135f
+      internalID: -4345197309104487583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_168
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9ad5a48ed6c9744be913798abc2e45
+      internalID: -1690988290981112825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_169
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee72b03431bd75459598c8e5ac1debd
+      internalID: 3135656866715128172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_170
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38450b1ca8b6c34c97d13cf2ed16dab
+      internalID: -4728039747956221960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_171
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6c8e2ab4998c54eb116e4a8159fa66
+      internalID: -329366617971224746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_172
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2f65bc780463b4e86053f981ffb297
+      internalID: 7531748631903437942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_173
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2ff982ed296f04a8b98d684ee21a49
+      internalID: 3487648476713725413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_174
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcf1e8320d94654080d3cd0bb1927c5
+      internalID: 1173404509890044156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_175
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c895a899b8df09449e7f0b6bfb09942
+      internalID: -1285522144194516750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_176
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24f615b8c376543ad278770ce0f0e2
+      internalID: -6189956413436514243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_177
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f902da3096ac0dc4ca7ad824d110d629
+      internalID: -5855142950728322732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_178
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d58b3e5121d94ca573f174a0038ec
+      internalID: -8146394854643699911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: controllerscreen_179
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92037a81b76576d4f8b296a7391ceb10
+      internalID: -3498263570198635768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

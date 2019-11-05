@@ -1,7 +1,547 @@
 fileFormatVersion: 2
 guid: 0fa89cd549e4145488d229bc0188ae25
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2147949705403856719
+    second: Normal_HorseArea_0
+  - first:
+      213: 5381623235466173358
+    second: Normal_HorseArea_1
+  - first:
+      213: 5125147857004107198
+    second: Normal_HorseArea_2
+  - first:
+      213: -7168235212884520593
+    second: Normal_HorseArea_3
+  - first:
+      213: -1077524219203142320
+    second: Normal_HorseArea_4
+  - first:
+      213: 4717743383288253740
+    second: Normal_HorseArea_5
+  - first:
+      213: 70078550584993059
+    second: Normal_HorseArea_6
+  - first:
+      213: -2381577614662644734
+    second: Normal_HorseArea_7
+  - first:
+      213: 7170218645587737638
+    second: Normal_HorseArea_8
+  - first:
+      213: -8911604038702244558
+    second: Normal_HorseArea_9
+  - first:
+      213: -2147227478349126474
+    second: Normal_HorseArea_10
+  - first:
+      213: 8454557579083220432
+    second: Normal_HorseArea_11
+  - first:
+      213: 6447303846216874776
+    second: Normal_HorseArea_12
+  - first:
+      213: 4308446711191058909
+    second: Normal_HorseArea_13
+  - first:
+      213: -8301050645920011809
+    second: Normal_HorseArea_14
+  - first:
+      213: -3845796341754786310
+    second: Normal_HorseArea_15
+  - first:
+      213: 3621986122481570903
+    second: Normal_HorseArea_16
+  - first:
+      213: -4831224343860383392
+    second: Normal_HorseArea_17
+  - first:
+      213: 398669068809323969
+    second: Normal_HorseArea_18
+  - first:
+      213: 2766671531925115651
+    second: Normal_HorseArea_19
+  - first:
+      213: -628186825100961369
+    second: Normal_HorseArea_20
+  - first:
+      213: 1612131867079481424
+    second: Normal_HorseArea_21
+  - first:
+      213: -8160067559683753145
+    second: Normal_HorseArea_22
+  - first:
+      213: -7558599509535081962
+    second: Normal_HorseArea_23
+  - first:
+      213: 8066223504134596554
+    second: Normal_HorseArea_24
+  - first:
+      213: -8354596488959824297
+    second: Normal_HorseArea_25
+  - first:
+      213: 7777529623274463700
+    second: Normal_HorseArea_26
+  - first:
+      213: 3083890196958003537
+    second: Normal_HorseArea_27
+  - first:
+      213: -1970048598840942750
+    second: Normal_HorseArea_28
+  - first:
+      213: 1169423694369944695
+    second: Normal_HorseArea_29
+  - first:
+      213: -217666846902419595
+    second: Normal_HorseArea_30
+  - first:
+      213: 6269366030712887873
+    second: Normal_HorseArea_31
+  - first:
+      213: 7973656674961108826
+    second: Normal_HorseArea_32
+  - first:
+      213: 1058143151160917237
+    second: Normal_HorseArea_33
+  - first:
+      213: 8068221092567694757
+    second: Normal_HorseArea_34
+  - first:
+      213: -743002478349078089
+    second: Normal_HorseArea_35
+  - first:
+      213: -1418438902160617654
+    second: Normal_HorseArea_36
+  - first:
+      213: -5731584347982428545
+    second: Normal_HorseArea_37
+  - first:
+      213: 904980092526738460
+    second: Normal_HorseArea_38
+  - first:
+      213: -2561900763963995995
+    second: Normal_HorseArea_39
+  - first:
+      213: -1002673366894932225
+    second: Normal_HorseArea_40
+  - first:
+      213: 4828324124094988710
+    second: Normal_HorseArea_41
+  - first:
+      213: 1084513082661960278
+    second: Normal_HorseArea_42
+  - first:
+      213: 396884726175578338
+    second: Normal_HorseArea_43
+  - first:
+      213: 8088569086998570700
+    second: Normal_HorseArea_44
+  - first:
+      213: 1304017941900951185
+    second: Normal_HorseArea_45
+  - first:
+      213: 6788953998007809488
+    second: Normal_HorseArea_46
+  - first:
+      213: -6387378182775729768
+    second: Normal_HorseArea_47
+  - first:
+      213: -8735439260840536685
+    second: Normal_HorseArea_48
+  - first:
+      213: -1771337438935312405
+    second: Normal_HorseArea_49
+  - first:
+      213: 6953573461784395524
+    second: Normal_HorseArea_50
+  - first:
+      213: -2816183164805734169
+    second: Normal_HorseArea_51
+  - first:
+      213: -8670797522034990121
+    second: Normal_HorseArea_52
+  - first:
+      213: 6900138466126710744
+    second: Normal_HorseArea_53
+  - first:
+      213: -116124847042960502
+    second: Normal_HorseArea_54
+  - first:
+      213: -2558162295589359211
+    second: Normal_HorseArea_55
+  - first:
+      213: 6578407553331560364
+    second: Normal_HorseArea_56
+  - first:
+      213: -388614717558409962
+    second: Normal_HorseArea_57
+  - first:
+      213: 2101911839386192621
+    second: Normal_HorseArea_58
+  - first:
+      213: -88939207327228117
+    second: Normal_HorseArea_59
+  - first:
+      213: -1623327247411664518
+    second: Normal_HorseArea_60
+  - first:
+      213: 262935338832554832
+    second: Normal_HorseArea_61
+  - first:
+      213: 5530550814148444157
+    second: Normal_HorseArea_62
+  - first:
+      213: 3033501088631687922
+    second: Normal_HorseArea_63
+  - first:
+      213: -6736528782250529968
+    second: Normal_HorseArea_64
+  - first:
+      213: -6392477817463824403
+    second: Normal_HorseArea_65
+  - first:
+      213: 5923481284296740514
+    second: Normal_HorseArea_66
+  - first:
+      213: 6166373513119656463
+    second: Normal_HorseArea_67
+  - first:
+      213: -1458063332017961316
+    second: Normal_HorseArea_68
+  - first:
+      213: 1896851125431641545
+    second: Normal_HorseArea_69
+  - first:
+      213: 8059942650666064369
+    second: Normal_HorseArea_70
+  - first:
+      213: -7696566510215287543
+    second: Normal_HorseArea_71
+  - first:
+      213: 4882849467570850295
+    second: Normal_HorseArea_72
+  - first:
+      213: 2493435869011434594
+    second: Normal_HorseArea_73
+  - first:
+      213: 1947019519214785281
+    second: Normal_HorseArea_74
+  - first:
+      213: 2431897115833363133
+    second: Normal_HorseArea_75
+  - first:
+      213: -678149739237798363
+    second: Normal_HorseArea_76
+  - first:
+      213: -8197879136559850644
+    second: Normal_HorseArea_77
+  - first:
+      213: -4002663748446121713
+    second: Normal_HorseArea_78
+  - first:
+      213: -9135847040306635244
+    second: Normal_HorseArea_79
+  - first:
+      213: -8393416719583947546
+    second: Normal_HorseArea_80
+  - first:
+      213: 9029358649215721790
+    second: Normal_HorseArea_81
+  - first:
+      213: -2094187619007053380
+    second: Normal_HorseArea_82
+  - first:
+      213: 8102601864134902412
+    second: Normal_HorseArea_83
+  - first:
+      213: 2201815925018642997
+    second: Normal_HorseArea_84
+  - first:
+      213: 7247416355072399430
+    second: Normal_HorseArea_85
+  - first:
+      213: 2642025036978323136
+    second: Normal_HorseArea_86
+  - first:
+      213: -7334383065811347773
+    second: Normal_HorseArea_87
+  - first:
+      213: -3466930101454601230
+    second: Normal_HorseArea_88
+  - first:
+      213: -4787751566510720474
+    second: Normal_HorseArea_89
+  - first:
+      213: -1985089099733362444
+    second: Normal_HorseArea_90
+  - first:
+      213: -537809542880049773
+    second: Normal_HorseArea_91
+  - first:
+      213: -326339021245770018
+    second: Normal_HorseArea_92
+  - first:
+      213: -5162334935391282357
+    second: Normal_HorseArea_93
+  - first:
+      213: 2760004820246664674
+    second: Normal_HorseArea_94
+  - first:
+      213: -5275222989409410209
+    second: Normal_HorseArea_95
+  - first:
+      213: -2075116387951575147
+    second: Normal_HorseArea_96
+  - first:
+      213: 5810045198482376162
+    second: Normal_HorseArea_97
+  - first:
+      213: 2011686468894237321
+    second: Normal_HorseArea_98
+  - first:
+      213: 2161119794866430411
+    second: Normal_HorseArea_99
+  - first:
+      213: -3530966466977071080
+    second: Normal_HorseArea_100
+  - first:
+      213: -1694043828165070913
+    second: Normal_HorseArea_101
+  - first:
+      213: 1093602484773130288
+    second: Normal_HorseArea_102
+  - first:
+      213: -2860590146655224863
+    second: Normal_HorseArea_103
+  - first:
+      213: -3169991099105188788
+    second: Normal_HorseArea_104
+  - first:
+      213: 4770558424424915350
+    second: Normal_HorseArea_105
+  - first:
+      213: -6430797120214346272
+    second: Normal_HorseArea_106
+  - first:
+      213: -9123661258504416893
+    second: Normal_HorseArea_107
+  - first:
+      213: 7904367889808555599
+    second: Normal_HorseArea_108
+  - first:
+      213: -6551878563820503109
+    second: Normal_HorseArea_109
+  - first:
+      213: -8497805982796735702
+    second: Normal_HorseArea_110
+  - first:
+      213: -456999235610714426
+    second: Normal_HorseArea_111
+  - first:
+      213: 1465756263604329918
+    second: Normal_HorseArea_112
+  - first:
+      213: 5305679641138977912
+    second: Normal_HorseArea_113
+  - first:
+      213: 561995059249540529
+    second: Normal_HorseArea_114
+  - first:
+      213: -8971988944966457675
+    second: Normal_HorseArea_115
+  - first:
+      213: 6599026736489384120
+    second: Normal_HorseArea_116
+  - first:
+      213: 3901613437458713081
+    second: Normal_HorseArea_117
+  - first:
+      213: -1066346824991253485
+    second: Normal_HorseArea_118
+  - first:
+      213: 57501869019066691
+    second: Normal_HorseArea_119
+  - first:
+      213: -5782458378843541720
+    second: Normal_HorseArea_120
+  - first:
+      213: 2468699978250922349
+    second: Normal_HorseArea_121
+  - first:
+      213: 3552703978844593288
+    second: Normal_HorseArea_122
+  - first:
+      213: 2380978593343846318
+    second: Normal_HorseArea_123
+  - first:
+      213: -2892891617209402768
+    second: Normal_HorseArea_124
+  - first:
+      213: 7063771774837411439
+    second: Normal_HorseArea_125
+  - first:
+      213: 8970741961193681104
+    second: Normal_HorseArea_126
+  - first:
+      213: -6491279726850474237
+    second: Normal_HorseArea_127
+  - first:
+      213: 4849536877169520223
+    second: Normal_HorseArea_128
+  - first:
+      213: 2200305863219594651
+    second: Normal_HorseArea_129
+  - first:
+      213: 3168579920382767461
+    second: Normal_HorseArea_130
+  - first:
+      213: -188038227014426076
+    second: Normal_HorseArea_131
+  - first:
+      213: -4935664863898388954
+    second: Normal_HorseArea_132
+  - first:
+      213: -5342664290070827979
+    second: Normal_HorseArea_133
+  - first:
+      213: -8636317186514865709
+    second: Normal_HorseArea_134
+  - first:
+      213: -3104450404996132826
+    second: Normal_HorseArea_135
+  - first:
+      213: 3242570038224736007
+    second: Normal_HorseArea_136
+  - first:
+      213: 3016666276119437905
+    second: Normal_HorseArea_137
+  - first:
+      213: 3846879331792004818
+    second: Normal_HorseArea_138
+  - first:
+      213: 5319932451801628871
+    second: Normal_HorseArea_139
+  - first:
+      213: 3121460465790807832
+    second: Normal_HorseArea_140
+  - first:
+      213: -1717303143772984876
+    second: Normal_HorseArea_141
+  - first:
+      213: -2301694102310127321
+    second: Normal_HorseArea_142
+  - first:
+      213: 5458956283005569287
+    second: Normal_HorseArea_143
+  - first:
+      213: -6599270522490228
+    second: Normal_HorseArea_144
+  - first:
+      213: -3363722618660707688
+    second: Normal_HorseArea_145
+  - first:
+      213: -5942614361436723091
+    second: Normal_HorseArea_146
+  - first:
+      213: -1948031331089759128
+    second: Normal_HorseArea_147
+  - first:
+      213: 3179692172323856977
+    second: Normal_HorseArea_148
+  - first:
+      213: -5749712493352470367
+    second: Normal_HorseArea_149
+  - first:
+      213: -3329322435454276756
+    second: Normal_HorseArea_150
+  - first:
+      213: -1407233760304321673
+    second: Normal_HorseArea_151
+  - first:
+      213: 3063401159035585606
+    second: Normal_HorseArea_152
+  - first:
+      213: -7477667283712588121
+    second: Normal_HorseArea_153
+  - first:
+      213: 3805917636033392745
+    second: Normal_HorseArea_154
+  - first:
+      213: -175280747261072271
+    second: Normal_HorseArea_155
+  - first:
+      213: -2465090264305224284
+    second: Normal_HorseArea_156
+  - first:
+      213: 8743240794513440688
+    second: Normal_HorseArea_157
+  - first:
+      213: 7349126244385181155
+    second: Normal_HorseArea_158
+  - first:
+      213: -7749037544498951093
+    second: Normal_HorseArea_159
+  - first:
+      213: 8614450113427643173
+    second: Normal_HorseArea_160
+  - first:
+      213: 4917601343612816520
+    second: Normal_HorseArea_161
+  - first:
+      213: 7957929465023563580
+    second: Normal_HorseArea_162
+  - first:
+      213: -945460237649513989
+    second: Normal_HorseArea_163
+  - first:
+      213: 4465712155264902644
+    second: Normal_HorseArea_164
+  - first:
+      213: 2568812492468937462
+    second: Normal_HorseArea_165
+  - first:
+      213: -1425802414241250956
+    second: Normal_HorseArea_166
+  - first:
+      213: 1002603135895634529
+    second: Normal_HorseArea_167
+  - first:
+      213: 7286249324342477272
+    second: Normal_HorseArea_168
+  - first:
+      213: 7047832492840003146
+    second: Normal_HorseArea_169
+  - first:
+      213: 8101264762906774869
+    second: Normal_HorseArea_170
+  - first:
+      213: 4946284034845946269
+    second: Normal_HorseArea_171
+  - first:
+      213: -8480436398569573853
+    second: Normal_HorseArea_172
+  - first:
+      213: -8334249464975972987
+    second: Normal_HorseArea_173
+  - first:
+      213: -6274257845548213962
+    second: Normal_HorseArea_174
+  - first:
+      213: 6440935477595426992
+    second: Normal_HorseArea_175
+  - first:
+      213: -6782079387881412409
+    second: Normal_HorseArea_176
+  - first:
+      213: 3781870393583536688
+    second: Normal_HorseArea_177
+  - first:
+      213: -484092194146789551
+    second: Normal_HorseArea_178
+  - first:
+      213: -4289598205313047571
+    second: Normal_HorseArea_179
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +580,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +610,3801 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Normal_HorseArea_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108becfaa55f53b4c8143e8930b7e1a7
+      internalID: -2147949705403856719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48f0c5b49e913a4eab02f841e0253cb
+      internalID: 5381623235466173358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0496dd6fdf5e5c4abf070c65ac58646
+      internalID: 5125147857004107198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afaee0ebb679a1047b7315adec823dbe
+      internalID: -7168235212884520593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b820d44952807e7459f45a4dbfad4226
+      internalID: -1077524219203142320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca6aa777c9597b47a7191e90b5b30b7
+      internalID: 4717743383288253740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc42dec736c19c449387883f0e1b6e6
+      internalID: 70078550584993059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979d6bf30cd47874f87e9c7bf34df243
+      internalID: -2381577614662644734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456049ecf32c9414fb7fd747ac684e83
+      internalID: 7170218645587737638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c72cdf40a69fb546a44a260c8d532d5
+      internalID: -8911604038702244558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e20c8f527550974eafd656c4e61a96e
+      internalID: -2147227478349126474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1338f852c177c4c9700f5b97e8e89e
+      internalID: 8454557579083220432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a6fe57af3cadf438578898aaff67eb
+      internalID: 6447303846216874776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf7807d9423f534b9a6bf067daeda08
+      internalID: 4308446711191058909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f6ccf189ef904fbaaa3c05bc60a17
+      internalID: -8301050645920011809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f228018d1e18b498fb8b9701b0e242
+      internalID: -3845796341754786310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d6f372077fb744db8cc5476139d693
+      internalID: 3621986122481570903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f2e3ca2ff7c9449155c4d284fd523
+      internalID: -4831224343860383392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf30f1f78eadc4cb129db43fdbd8db
+      internalID: 398669068809323969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272ecbdd87206f4aa9c48562b812aa1
+      internalID: 2766671531925115651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d832e1ace24a25b4aaac2f0d81fcdbbe
+      internalID: -628186825100961369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53d31dc503a7441b9ed5793578bd12
+      internalID: 1612131867079481424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_22
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e09916d4352043bb59c28b2415005
+      internalID: -8160067559683753145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_23
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68f0db84b90e442a19449658e02db1
+      internalID: -7558599509535081962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc7013a067c3fd4f90c57ade0adde82
+      internalID: 8066223504134596554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_25
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a17446734cb8b41b30a4845cdb732f
+      internalID: -8354596488959824297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d072d012da30498a7d9bc14c91e16
+      internalID: 7777529623274463700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a758954208c1f4e40a264d76a050627d
+      internalID: 3083890196958003537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e49196624ef2e418aee870482a0035
+      internalID: -1970048598840942750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4839f10b21e86d42a80d75aa532c8d7
+      internalID: 1169423694369944695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc1f90cea693954f8840f0de7373d96
+      internalID: -217666846902419595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b69c4fa7b49b5041866234168a3dbd1
+      internalID: 6269366030712887873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1e9a3e57607d34ebc6572ba9217e89
+      internalID: 7973656674961108826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5575400772ce4044a8df845526dfd1d
+      internalID: 1058143151160917237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94533736c5017a54ca5f3ff756bf5d04
+      internalID: 8068221092567694757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8cdc64d850e334faaf4639e8bb8635
+      internalID: -743002478349078089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4a503421849be499e88d2196aa2276
+      internalID: -1418438902160617654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_37
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b644643eec4ea50469203698148818e5
+      internalID: -5731584347982428545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147e0b5db463b942915602d80cfde2d
+      internalID: 904980092526738460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a4f045b85189c4e9955c18e1b0ce96
+      internalID: -2561900763963995995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_40
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e02b5ce749e9a4a976b25f11679085
+      internalID: -1002673366894932225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_41
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a61d218d89df8a47b2682122564a9a6
+      internalID: 4828324124094988710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_42
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ef7c6158531ec40b8adb0e3fed4edc
+      internalID: 1084513082661960278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02707f42232c3cf40821071d41e8f441
+      internalID: 396884726175578338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_44
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 294
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb224398fd2ee4cbd66c9dcaa6f177
+      internalID: 8088569086998570700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c5457aa1505e4d89be084ebaa63ba
+      internalID: 1304017941900951185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cac5313de53fd4dbbf57c2a1bb32ff
+      internalID: 6788953998007809488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3489f64c7ec458147972b64984dd164a
+      internalID: -6387378182775729768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b586658de1e820f4e8e67b1cc26d4f6b
+      internalID: -8735439260840536685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_49
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d81662677961934cb495d987b598356
+      internalID: -1771337438935312405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_50
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d728d93681db364190da9b3f9ad8dab
+      internalID: 6953573461784395524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc993e2e32863b49b1524ad962ed5f7
+      internalID: -2816183164805734169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_52
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88add3a5ac414b445a61ddf6cb851fbc
+      internalID: -8670797522034990121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_53
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda96023f31af2044b09cda8071ae1eb
+      internalID: 6900138466126710744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_54
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8dc00b7e4244843beb5b308412a9ee
+      internalID: -116124847042960502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_55
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d475d4d0e62949a91a7c1e332a112
+      internalID: -2558162295589359211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_56
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd88bdbb8d1c64a93f476f2ec5f3f4
+      internalID: 6578407553331560364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_57
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2c95adaa0ea7d45829059964ae2c85
+      internalID: -388614717558409962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_58
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c77b53ad36498942bf6b91af6e0d9aa
+      internalID: 2101911839386192621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12a3f329241b94da3d99705c2f34d6
+      internalID: -88939207327228117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5401443eaa2fd34ebed9efbd7f6afff
+      internalID: -1623327247411664518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df10e40c9abecf4badb313059130eea
+      internalID: 262935338832554832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e2793c921ab5440bf204799153484a
+      internalID: 5530550814148444157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ff6764ba9868c4b832b70921327fb4
+      internalID: 3033501088631687922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_64
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783e8053463d6846a0b18f1f4d8d205
+      internalID: -6736528782250529968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1b65387b8e8941900a8b4766cb0cd
+      internalID: -6392477817463824403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001b339c61632b34da26a60d53a0f1ae
+      internalID: 5923481284296740514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_67
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeb749de66ab1c4081089c3795501ff
+      internalID: 6166373513119656463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7505c80478745404dae5256c08e02140
+      internalID: -1458063332017961316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e581390b06c214eb3a42eba57a99dd
+      internalID: 1896851125431641545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c4b41dae404484aa9fe8474b23c8b2
+      internalID: 8059942650666064369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_71
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7436fb13c06b43647a35aec78f469318
+      internalID: -7696566510215287543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_72
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea493ef2b1d5a65448a519077b4b7f0d
+      internalID: 4882849467570850295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_73
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7570df41acf9841a5056d3ec0dc1c2
+      internalID: 2493435869011434594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_74
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 230
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0445a2f3bbbb3346aae2daa47c2e55a
+      internalID: 1947019519214785281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4122a3114662fc543919e281f01496fb
+      internalID: 2431897115833363133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_76
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1d1b28733cd94da6bd1351fc091e0
+      internalID: -678149739237798363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_77
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e8258bdda66df4aa103e9d7d71c77e
+      internalID: -8197879136559850644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_78
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed74192ea08458d498af7b173dbcfc3a
+      internalID: -4002663748446121713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c6d517d65d3144a25522bf236940b
+      internalID: -9135847040306635244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e981a8c23c35db43959530282071c8d
+      internalID: -8393416719583947546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_81
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27716151782fe8448955d5db9401eaba
+      internalID: 9029358649215721790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_82
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da92387a41e85d24985fbb12b8beb5a4
+      internalID: -2094187619007053380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_83
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007e310ab94316e43b93d270d8f974f1
+      internalID: 8102601864134902412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_84
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec253662dfb43d429e345dab865dc37
+      internalID: 2201815925018642997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a3a8b43687fbe49818345cc59c6c40
+      internalID: 7247416355072399430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_86
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f43f44f3277ba41837d74be93bfa8d
+      internalID: 2642025036978323136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_87
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47b08f082ae6c46bd44dbbcfebde92
+      internalID: -7334383065811347773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_88
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58985913311ba7047ab5a39f9cc47c2e
+      internalID: -3466930101454601230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_89
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b50a78416795d468c427207f0a1b03
+      internalID: -4787751566510720474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749db837659d6c4ca27ae616ad94e55
+      internalID: -1985089099733362444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_91
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a5bb72d28e4b74f9e5cc9e753d00d5
+      internalID: -537809542880049773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_92
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6642b1764a05814e886ce87ace2ee65
+      internalID: -326339021245770018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_93
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e1e64a9aea9d347bf464865c6e6014
+      internalID: -5162334935391282357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_94
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf23d36f6490e140b32fa517a524f53
+      internalID: 2760004820246664674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_95
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525775f503c8f8247ab681d64bcd13dc
+      internalID: -5275222989409410209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f05995719c7948a55d636c5dff882
+      internalID: -2075116387951575147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_97
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a344a6fe719e14bb8c16bb3cd75255
+      internalID: 5810045198482376162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_98
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25140e0897da82f479a6939ab4a595fd
+      internalID: 2011686468894237321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_99
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6928000b77308942b6cbd892797ba57
+      internalID: 2161119794866430411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979981121bd10414890c4638235e66d4
+      internalID: -3530966466977071080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_101
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b7fc212bd0c14b84125b9add238b1
+      internalID: -1694043828165070913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de2310286ce14a4aa80e6a74137d2d8
+      internalID: 1093602484773130288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_103
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12851e3494ca97c4eb25e3e30ea62ca9
+      internalID: -2860590146655224863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_104
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8e71300f56c34081c171a0f15b04a
+      internalID: -3169991099105188788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_105
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41c791bcb9ece040bcc5a8d3ba8987a
+      internalID: 4770558424424915350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_106
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d919ddfa03fea7547a73d7487b4301b8
+      internalID: -6430797120214346272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_107
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f9e63321525e43a21d1bb7c824800
+      internalID: -9123661258504416893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_108
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804fd151d16f934bb0fbf55d6a60791
+      internalID: 7904367889808555599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_109
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82edff64d5936704abc5a986e685ca21
+      internalID: -6551878563820503109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_110
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ae6e373a17f344a9d073f1c2f0939b
+      internalID: -8497805982796735702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b61d548ce45f74cb689c66472e8d1b
+      internalID: -456999235610714426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_112
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08da0a3e37ee3d64bb86190428c01395
+      internalID: 1465756263604329918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_113
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73cffdbc990452419ac1485f2fde8a0
+      internalID: 5305679641138977912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_114
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe43073406448f4b89f716b59fd9bbd
+      internalID: 561995059249540529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_115
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d10d7369b34cc2449c3b6d13e37a492
+      internalID: -8971988944966457675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd4a1ec21d0aaa4aa70774e7d92ce69
+      internalID: 6599026736489384120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_117
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b1aa0ed15de624c99bf7a83a2aec87
+      internalID: 3901613437458713081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_118
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4867b1136d739429946abb5983713d
+      internalID: -1066346824991253485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_119
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212ed4afa62ecd545844e951c24b0552
+      internalID: 57501869019066691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2069042b326c459aac1d7039b41be
+      internalID: -5782458378843541720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8169751932eb4fb40ac915a8b38bf
+      internalID: 2468699978250922349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_122
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6edcccb8060f06428bea4ba47962a69
+      internalID: 3552703978844593288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_123
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eccb0a0e5475f946bafed86c9bbd219
+      internalID: 2380978593343846318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_124
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058571481516b1a4782ba813e25a1ab5
+      internalID: -2892891617209402768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_125
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331b378a81c202549985e73893260739
+      internalID: 7063771774837411439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_126
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76bb12cce8a6ec45a41cd38a5d722f9
+      internalID: 8970741961193681104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_127
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a0585412e0d164c94ed009989346ce
+      internalID: -6491279726850474237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_128
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7b07d9fe052bf44bf6296581cf8806
+      internalID: 4849536877169520223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_129
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8faf4d3cd6a9440b1a5221e05d6d43
+      internalID: 2200305863219594651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_130
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa4bedc416f5d4f83eeb11af399c74
+      internalID: 3168579920382767461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_131
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d0ae780ea947647ab3e3d3757fa09c
+      internalID: -188038227014426076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_132
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823866e5d942b9545ae292ca4e8e02e9
+      internalID: -4935664863898388954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_133
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f37ce7c4f1dcaa4cbc255ad53513c19
+      internalID: -5342664290070827979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_134
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 102
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c981949ccc581214a870394eb5c266f3
+      internalID: -8636317186514865709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_135
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2077af71f166c5499ab9805eeba48ba
+      internalID: -3104450404996132826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_136
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50238695566b86a45badc75a6d9ac110
+      internalID: 3242570038224736007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_137
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac210baa12719c4080d942662b8e910
+      internalID: 3016666276119437905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_138
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121c714dd35c0e448ae31d2bdc920c62
+      internalID: 3846879331792004818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_139
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e591566b5fe86640bc590a58b7b5033
+      internalID: 5319932451801628871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_140
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87076e74664c020499b77a74226edf77
+      internalID: 3121460465790807832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_141
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ceaa1fd28820e4abe48b6c50ab903b
+      internalID: -1717303143772984876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_142
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2606f089de7fb45b0be02beb9333ea
+      internalID: -2301694102310127321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_143
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3da324f3a44645a2abbc71a06dc0a
+      internalID: 5458956283005569287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_144
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b185a244240045afe67ce19829a6e
+      internalID: -6599270522490228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_145
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71d509a410aa1479c53d08dd4523ea
+      internalID: -3363722618660707688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_146
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1308113e59122824ca66bd64ab8295ab
+      internalID: -5942614361436723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_147
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd25d44fc07cfe4a961d5fc1aeb9e2f
+      internalID: -1948031331089759128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_148
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5b9898642b9e4429352a80ad3d9ac4
+      internalID: 3179692172323856977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_149
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 70
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c712d9d486375db4fb2c007105112150
+      internalID: -5749712493352470367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_150
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e30da5e142ef9544b5d8e2bc79ba5b9
+      internalID: -3329322435454276756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_151
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cd98e828604d3478e0f54de76c314b
+      internalID: -1407233760304321673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_152
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114fc2e7406a5747b152efa7a009f73
+      internalID: 3063401159035585606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_153
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad89a29dc6359c442b2beac39b78b382
+      internalID: -7477667283712588121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_154
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b58794aa7858bf4cae49d4ebd5c55b6
+      internalID: 3805917636033392745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_155
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f2d4e7eea74f745b8ce94aad8533e8
+      internalID: -175280747261072271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_156
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e1c1c3ec08e8247ae9477ec48fba84
+      internalID: -2465090264305224284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_157
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a6d79ad156f074faf9913057c14f7b
+      internalID: 8743240794513440688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_158
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb560abfe5d8c4345a379c54093db5f6
+      internalID: 7349126244385181155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_159
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2f5b5187a395942bb1c1aa01008bc0
+      internalID: -7749037544498951093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_160
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c48a0647fd517a4a80d502279ed0e43
+      internalID: 8614450113427643173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_161
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5030bffeb96074b85c249b7007b91a
+      internalID: 4917601343612816520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_162
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65569f194cc9ff47b520f0ff5bd508f
+      internalID: 7957929465023563580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_163
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc27c4c240d2a341a8321f36b2489f5
+      internalID: -945460237649513989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_164
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c7c5b76beb024f9aa7ecff51e8c88
+      internalID: 4465712155264902644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_165
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697ab0f26536bd34e9110e416f18cd3d
+      internalID: 2568812492468937462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_166
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa12088fde862640a46e7b7a2c9fa8c
+      internalID: -1425802414241250956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_167
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98846b23539848142a8a6e486f6d6550
+      internalID: 1002603135895634529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_168
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e6deed84e43c4091184d5917ffb1f
+      internalID: 7286249324342477272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_169
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5f50dc6ae465c47b5430b4538a65a4
+      internalID: 7047832492840003146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_170
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b047cdf3983371e44b823fba656463fe
+      internalID: 8101264762906774869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_171
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba272f3a8588a3841b0afa3c18604fe6
+      internalID: 4946284034845946269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_172
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082f80c88721f894fb8d437beda4ce24
+      internalID: -8480436398569573853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_173
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b81dec0201a74685afd483b5fecce
+      internalID: -8334249464975972987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_174
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ed9040ea02d0c4ba4753f03b594400
+      internalID: -6274257845548213962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_175
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6ae6acac200c44ebc5b9ed9ecef639
+      internalID: 6440935477595426992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_176
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea89bb13ef278d4299a1bae7358a099
+      internalID: -6782079387881412409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_177
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6d65f0729eae747a622d38fae7afc7
+      internalID: 3781870393583536688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_178
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece84dc02b500dc489b282dd7fc24737
+      internalID: -484092194146789551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Normal_HorseArea_179
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57904e605be08944db864abc00b845af
+      internalID: -4289598205313047571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
