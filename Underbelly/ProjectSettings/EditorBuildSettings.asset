@@ -12,12 +12,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Controls.unity
     guid: e7a728b354b17e445add60d6fd2eaaf2
   - enabled: 1
+    path: Assets/Scenes/Spawn.unity
+    guid: ee5868d920984c4469efcba805b83a96
+  - enabled: 1
     path: Assets/Scenes/GoodEnd.unity
     guid: d972e1012020bd640a5f01c3fc9fa008
   - enabled: 1
+    path: Assets/Scenes/HorsePuzzle.unity
+    guid: 1d16d7f932ba1a8468ab3b33d38ae6e9
+  - enabled: 1
+    path: Assets/Scenes/EvilHorsePuzzle.unity
+    guid: c12a1756bde1c4d06884fc987ee23d11
+  - enabled: 1
     path: Assets/Scenes/BadEnd.unity
     guid: f01575af803a2e64aa635e793980d614
-  - enabled: 1
-    path: Assets/Scenes/Spawn.unity
-    guid: 1222d5503c2bdfd488e4d234ea7af6a1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
