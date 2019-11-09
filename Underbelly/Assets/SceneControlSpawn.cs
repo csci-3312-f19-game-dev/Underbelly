@@ -28,6 +28,7 @@ public class SceneControlSpawn : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(652.5f, 593.4f);
             SceneManager.LoadScene("HorsePuzzle");
         }
     }

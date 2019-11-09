@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneControlGoodHouse : MonoBehaviour
 {
+    public static bool carrotHidden;
     //GameObject player = GameObject.FindGameObjectWithTag("Player");
 
     // Start is called before the first frame update
@@ -13,7 +14,7 @@ public class SceneControlGoodHouse : MonoBehaviour
         DontDestroyOnLoad(GameObject.FindGameObjectWithTag("Player"));
         //GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(701.3f, 567.9f);
 
-
+        
 
     }
 
