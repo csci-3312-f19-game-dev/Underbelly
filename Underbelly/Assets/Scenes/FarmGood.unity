@@ -143,6 +143,7 @@ GameObject:
   - component: {fileID: 835461283}
   - component: {fileID: 835461282}
   - component: {fileID: 835461296}
+  - component: {fileID: 835461297}
   m_Layer: 0
   m_Name: FarmScreen
   m_TagString: Untagged
@@ -516,6 +517,32 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67c71f9f341e7498ea7522fe12217169, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!61 &835461297
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 835461281}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -2.3434968, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5, y: 4}
+    newSize: {x: 5, y: 4}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.3130064, y: 4}
+  m_EdgeRadius: 0
 --- !u!1 &1752818569
 GameObject:
   m_ObjectHideFlags: 0
@@ -704,7 +731,7 @@ Animator:
   m_GameObject: {fileID: 1832353538}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: ebeb31b0058b24a73b674ba44c12f5a3, type: 2}
+  m_Controller: {fileID: 9100000, guid: e1bec7944dba94bb78f0efbbc20fd380, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

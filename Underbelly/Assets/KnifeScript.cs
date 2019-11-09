@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class KnifeScript : MonoBehaviour
 {
-    public static bool hasKnife;
-    public static bool hasCarrot;
     public bool hidden = false;
     // Start is called before the first frame update
     void Start()
@@ -15,9 +13,8 @@ public class KnifeScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        hasKnife = PlayerController.hasKnife;
-        hasCarrot = PlayerController.hasCarrot;
-        if (hidden || PlayerController.hasKnife)
+       
+        if (hidden || PlayerController.knifeHidden)
         {
             this.transform.position = new Vector3(0, 0, 0);
         }
@@ -25,9 +22,9 @@ public class KnifeScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        PlayerController.inventory = "Knife";
+        PlayerController.carrotHidden = false;
+        PlayerController.knifeHidden = true;
         this.hidden = true;
-        hasKnife = true;
-        PlayerController.hasKnife = true;
-        hasCarrot = false;
     }
 }

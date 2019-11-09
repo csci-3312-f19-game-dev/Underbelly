@@ -20,21 +20,24 @@ public class HorseScript : MonoBehaviour
     {
         //hasCarrot = PlayerController.hasCarrot;
         //hasKnife = PlayerController.hasKnife;
-        if (hidden) transform.position = new Vector3(0f, 0f);
+        if (hidden || PlayerController.horseGone) transform.position = new Vector3(0f, 0f);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Player") && PlayerController.hasCarrot == true)
+        if (collision.gameObject.CompareTag("Player") && PlayerController.inventory == "Carrot")
         {
             hidden = true;
-            goodBoyPoints += 1;
+            PlayerController.goodBoyPoints += 1;
+            PlayerController.horseGone = true;
         }
-        if (collision.gameObject.CompareTag("Player") && PlayerController.hasKnife == true)
+        if (collision.gameObject.CompareTag("Player") && PlayerController.inventory == "Knife")
         {
             //SceneManager.LoadScene("MainMenu");
             hidden = true;
-            goodBoyPoints -= 1;
+            PlayerController.goodBoyPoints -= 1;
+            PlayerController.horseGone = true;
+
         }
     }
 }

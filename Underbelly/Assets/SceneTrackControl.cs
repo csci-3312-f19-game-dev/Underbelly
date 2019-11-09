@@ -26,6 +26,7 @@ public class SceneTrackControl : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(755f, 568f);
             SceneManager.LoadScene("Spawn");
         }
     }

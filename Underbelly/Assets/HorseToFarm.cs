@@ -23,7 +23,7 @@ public class HorseToFarm : MonoBehaviour
         {
             //player.transform.position = new Vector3(701.3f, 567.9f);
             SceneManager.LoadScene("FarmGood");
-            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(635.3f, 591.8f);
+            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(650.3f, 591.8f);
 
 
         }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -14,18 +15,50 @@ public class PlayerController : MonoBehaviour
     public bool HasBeenToHorsePuzzle;
     public bool comingFromSpawn;
     public bool FirstFrame;
-    public int goodBoyPoints;
+
+    public static bool horseGone;
+
+    public static int goodBoyPoints;
+
+    public static bool carrotHidden;
+    public static bool knifeHidden;
+
+    public static string inventory;
 
     public Animator animator;
     
 
     Vector3 position;
+
+    public static PlayerController singleton;
+
+    private void Awake()
+    {
+        if (singleton)
+        {
+            //singleton has been instantiate already.
+            Destroy(gameObject);
+        }
+        else
+        {
+            //one has not been created yet:
+            singleton = this;
+            DontDestroyOnLoad(this.gameObject);
+        }
+    }
+
+
     // Start is called before the first frame update
     void Start()
     {
+        horseGone = false;
+        knifeHidden = false;
+        carrotHidden = false;
         position = transform.position;
         hasCarrot = false;
         hasKnife = false;
+
+        inventory = "";
 
         rigidBody2D = GetComponent<Rigidbody2D>();
         HasBeenToHorsePuzzle = false;
@@ -51,14 +84,12 @@ public class PlayerController : MonoBehaviour
             FirstFrame = false;
         }
 
-        goodBoyPoints = HorseScript.goodBoyPoints; //+later goodBoyPoints in other puzzles
+        //goodBoyPoints = HorseScript.goodBoyPoints; //+later goodBoyPoints in other puzzles
 
         if (hasCarrot) hasKnife = false;
         if (hasKnife) hasCarrot = false;
 
-        hasCarrot = CarrotScript.hasCarrot;
-        hasKnife = KnifeScript.hasKnife;
-
+       
         hmovement = Input.GetAxis("Horizontal");
         vmovement = Input.GetAxis("Vertical");
         rigidBody2D.velocity = new Vector2(hmovement * playerVelocity, vmovement * playerVelocity);
