@@ -64,7 +64,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CarrotScript.cs" />
+    <Compile Include="Assets\FarmEvilScript.cs" />
+    <Compile Include="Assets\FarmGoodScript.cs" />
     <Compile Include="Assets\HorseScript.cs" />
+    <Compile Include="Assets\HorseToFarm.cs" />
+    <Compile Include="Assets\KnifeScript.cs" />
+    <Compile Include="Assets\SceneControlEvilHorse.cs" />
+    <Compile Include="Assets\SceneControlEvilHouse.cs" />
+    <Compile Include="Assets\SceneControlGoodHouse.cs" />
+    <Compile Include="Assets\SceneControlSpawn.cs" />
     <Compile Include="Assets\SceneTrackControl.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />

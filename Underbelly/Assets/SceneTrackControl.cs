@@ -8,20 +8,27 @@ public class SceneTrackControl : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        DontDestroyOnLoad(GameObject.FindGameObjectWithTag("Player"));
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
+        if (Input.GetKeyDown("space"))
+        {
+            SceneManager.LoadScene("EvilHorsePuzzle");
+            //SceneManager.MoveGameObjectToScene(gameObject.GetComponent(player), "EvilHorsePuzzle");
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            SceneManager.LoadScene("HorsePuzzle");
+            SceneManager.LoadScene("Spawn");
         }
     }
+
+    
 }

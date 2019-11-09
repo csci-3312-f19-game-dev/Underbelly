@@ -1,32 +1,70 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-    public bool hasCarrot;
+    public static bool hasCarrot;
+    public static bool hasKnife;
     public float playerVelocity = 50.0f;
-    public float movement = 0f;
+    public float hmovement = 0f;
+    public float vmovement = 0f;
     private Rigidbody2D rigidBody2D;
+    public bool HasBeenToHorsePuzzle;
+    public bool comingFromSpawn;
+    public bool FirstFrame;
+    public int goodBoyPoints;
+
+    public Animator animator;
     
 
     Vector3 position;
-    bool colliding;
     // Start is called before the first frame update
     void Start()
     {
         position = transform.position;
-        hasCarrot = true;
+        hasCarrot = false;
+        hasKnife = false;
+
         rigidBody2D = GetComponent<Rigidbody2D>();
+        HasBeenToHorsePuzzle = false;
+        comingFromSpawn = true;
+        FirstFrame = false;
+        goodBoyPoints = 0;
+
     }
 
     // Update is called once per frame
     void Update()
     {
+        if(SceneManager.GetActiveScene().name == "HorsePuzzle" && comingFromSpawn)
+        {
+            HasBeenToHorsePuzzle = true;
+            comingFromSpawn = false;
+            transform.position = new Vector3(652.5f, 593.4f);
+        }
 
-        movement = Input.GetAxis("Horizontal");
+        if (SceneManager.GetActiveScene().name == "InsideHouseEvil" && FirstFrame)
+        {
+            transform.position = new Vector3(701.3f, 567.9f);
+            FirstFrame = false;
+        }
 
-        rigidBody2D.velocity = new Vector2(movement * playerVelocity, rigidBody2D.velocity.y);
+        goodBoyPoints = HorseScript.goodBoyPoints; //+later goodBoyPoints in other puzzles
+
+        if (hasCarrot) hasKnife = false;
+        if (hasKnife) hasCarrot = false;
+
+        hasCarrot = CarrotScript.hasCarrot;
+        hasKnife = KnifeScript.hasKnife;
+
+        hmovement = Input.GetAxis("Horizontal");
+        vmovement = Input.GetAxis("Vertical");
+        rigidBody2D.velocity = new Vector2(hmovement * playerVelocity, vmovement * playerVelocity);
+
+        animator.SetFloat("Speedy", vmovement);
+        animator.SetFloat("Speedx", hmovement);
         //we are getting input from left/right arrow keys using the input axis system:
 
         //position.x += Input.GetAxis("Horizontal") * playerVelocity * Time.deltaTime;
@@ -40,15 +78,9 @@ public class PlayerController : MonoBehaviour
             //position.y = Mathf.Clamp(position.y, -100f, 100f);
 
          //transform.position = position;
-
+         
         
     }
 
-    private void OnTriggerEnter(Collider other)
-    {
-
-        colliding = true;
-
-    }
 
 }

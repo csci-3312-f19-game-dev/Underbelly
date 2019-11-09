@@ -1,19 +1,24 @@
 ﻿<Properties StartupConfiguration="{5733A936-B78E-724D-193A-FC793EF590B4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FarmEvilScript.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="20" Column="51" />
-      <File FileName="Assets/SceneTrackControl.cs" Line="26" Column="6" />
-      <File FileName="Assets/HorseScript.cs" Line="27" Column="1" />
-      <File FileName="Assets/CarrotScript.cs" Line="27" Column="1" />
+      <File FileName="Assets/CarrotScript.cs" Line="17" Column="6" />
+      <File FileName="Assets/SceneControlEvilHorse.cs" Line="23" Column="6" />
+      <File FileName="Assets/SceneControlSpawn.cs" Line="20" Column="1" />
+      <File FileName="Assets/SceneControlEvilHouse.cs" Line="41" Column="1" />
+      <File FileName="Assets/SceneControlGoodHouse.cs" Line="32" Column="10" />
+      <File FileName="Assets/KnifeScript.cs" Line="26" Column="13" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="55" Column="1" />
+      <File FileName="Assets/HorseToFarm.cs" Line="25" Column="48" />
+      <File FileName="Assets/FarmGoodScript.cs" Line="17" Column="9" />
+      <File FileName="Assets/FarmEvilScript.cs" Line="21" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Underbelly" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="PlayerController.cs" selected="True" />
-              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="FarmEvilScript.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,7 +27,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8ffb967f-9633-4e36-847d-81182d1dcc6d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d32dab82-4904-4f43-99bc-c0c3e993d685" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
