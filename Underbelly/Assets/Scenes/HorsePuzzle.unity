@@ -428,6 +428,8 @@ GameObject:
   - component: {fileID: 1542692578}
   - component: {fileID: 1542692577}
   - component: {fileID: 1542692576}
+  - component: {fileID: 1542692581}
+  - component: {fileID: 1542692580}
   m_Layer: 0
   m_Name: HorseScreen
   m_TagString: Untagged
@@ -668,7 +670,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 1.4008055, y: 1.1439909}
+  m_Offset: {x: 1.4008055, y: 1.8466723}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -679,7 +681,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.198389, y: 1.7120183}
+  m_Size: {x: 2.198389, y: 0.3066554}
   m_EdgeRadius: 0
 --- !u!61 &1542692578
 BoxCollider2D:
@@ -732,6 +734,58 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 1.9869139, y: 1.2752528}
+  m_EdgeRadius: 0
+--- !u!61 &1542692580
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1542692567}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 1.4574156, y: 0.33182228}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5, y: 4}
+    newSize: {x: 5, y: 4}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.0851688, y: 0.16127324}
+  m_EdgeRadius: 0
+--- !u!61 &1542692581
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1542692567}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 2.3552885, y: 1.1255928}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 5, y: 4}
+    newSize: {x: 5, y: 4}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.289423, y: 1.7488143}
   m_EdgeRadius: 0
 --- !u!1 &1738095181
 GameObject:
