@@ -229,6 +229,7 @@ GameObject:
   - component: {fileID: 1041219014}
   - component: {fileID: 1041219013}
   - component: {fileID: 1041219015}
+  - component: {fileID: 1041219016}
   m_Layer: 0
   m_Name: A Horsey Boi
   m_TagString: Untagged
@@ -274,7 +275,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 224aaf2eb67c144aa930b427131a5ea3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 68764c75e95ea4ec08f04cdd63187205, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -293,8 +294,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1041219010}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 758.1, y: 593.8, z: -1}
-  m_LocalScale: {x: 7, y: 7, z: 1}
+  m_LocalPosition: {x: 755.86, y: 594.17, z: -1}
+  m_LocalScale: {x: 9.240001, y: 9.8952, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -329,7 +330,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.84, y: 2.72}
+    oldSize: {x: 2, y: 1.53}
     newSize: {x: 2.84, y: 2.72}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -355,7 +356,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.84, y: 2.72}
+    oldSize: {x: 2, y: 1.53}
     newSize: {x: 2.84, y: 2.72}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -364,6 +365,25 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.5710287, y: 2.72}
   m_EdgeRadius: 0
+--- !u!95 &1041219016
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1041219010}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e37e863c13ab74d7f9fe46e0c5db9c8f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1268501961
 GameObject:
   m_ObjectHideFlags: 0
