@@ -14,10 +14,10 @@ public class IntoJewelHouse : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown("space"))
-        {
-            SceneManager.LoadScene("EvilJewelHouse");
-        }
+        //if (Input.GetKeyDown("space"))
+        //{
+        //    SceneManager.LoadScene("EvilJewelHouse");
+        //}
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
