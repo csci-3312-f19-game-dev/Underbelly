@@ -6,6 +6,7 @@ using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
+    public static bool rocksaredead;
     public static bool hasCarrot;
     public static bool hasKnife;
     public float playerVelocity = 50.0f;
@@ -51,6 +52,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        rocksaredead = false;
         horseGone = false;
         knifeHidden = false;
         carrotHidden = false;

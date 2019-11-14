@@ -72,6 +72,7 @@
     <Compile Include="Assets\IntoNecklaceHouseEvil.cs" />
     <Compile Include="Assets\IntoTwineHouse.cs" />
     <Compile Include="Assets\IntoTwineHouseEvil.cs" />
+    <Compile Include="Assets\RockDisappear.cs" />
     <Compile Include="Assets\SceneControlBarn.cs" />
     <Compile Include="Assets\SceneControlEvilFarmhouse.cs" />
     <Compile Include="Assets\SceneControlEvilJewelHouse.cs" />
@@ -96,6 +97,7 @@
     <Compile Include="Assets\Scripts\SceneControlSpawn.cs" />
     <Compile Include="Assets\Scripts\SceneTrackControl.cs" />
     <Compile Include="Assets\Scripts\TextImporter.cs" />
+    <Compile Include="Assets\ScytheControl.cs" />
     <Compile Include="Assets\TownEvilScript.cs" />
     <Compile Include="Assets\TownGoodScript.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
