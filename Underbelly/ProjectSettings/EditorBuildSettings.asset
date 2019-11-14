@@ -36,6 +36,15 @@ EditorBuildSettings:
     path: Assets/Scenes/FarmEvil.unity
     guid: 113db0e62524d418883deb2673cfa294
   - enabled: 1
+    path: Assets/Scenes/Barn.unity
+    guid: 9ca4f2726d9d9466e8261e79d6cb26db
+  - enabled: 1
+    path: Assets/Scenes/EvilFarmhouse.unity
+    guid: 9bdd39ac557d541ee82fe13ab25164da
+  - enabled: 1
+    path: Assets/Scenes/GoodFarmhouse.unity
+    guid: 9d83eb391f258490f8e161b1bad59ef1
+  - enabled: 1
     path: Assets/Scenes/TownGood.unity
     guid: 3bf9159e283f645678f507d41c0b5c4f
   - enabled: 1
@@ -53,6 +62,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EvilJewelHouse.unity
     guid: 5a424122eacaf4b2fb172a921f19bb0a
+  - enabled: 1
+    path: Assets/Scenes/GoodNecklaceHouse.unity
+    guid: 0c93b10a187084f07adc568d98065831
+  - enabled: 1
+    path: Assets/Scenes/EvilNecklaceHouse.unity
+    guid: 77b7cdf64870744c0b170c89ad8ee260
   - enabled: 1
     path: Assets/Scenes/BadEnd.unity
     guid: f01575af803a2e64aa635e793980d614

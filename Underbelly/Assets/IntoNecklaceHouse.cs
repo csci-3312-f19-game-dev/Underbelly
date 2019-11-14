@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class IntoNecklaceHouse : MonoBehaviour
 {
@@ -14,5 +15,15 @@ public class IntoNecklaceHouse : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(676.4f, 594.8f);
+
+            SceneManager.LoadScene("GoodNecklaceHouse");
+        }
     }
 }

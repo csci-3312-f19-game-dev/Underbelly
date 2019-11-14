@@ -64,14 +64,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\FarmToTown.cs" />
+    <Compile Include="Assets\IntoBarn.cs" />
+    <Compile Include="Assets\IntoEvilFarmhouse.cs" />
     <Compile Include="Assets\IntoJewelHouse.cs" />
     <Compile Include="Assets\IntoJewelHouseEvil.cs" />
     <Compile Include="Assets\IntoNecklaceHouse.cs" />
+    <Compile Include="Assets\IntoNecklaceHouseEvil.cs" />
     <Compile Include="Assets\IntoTwineHouse.cs" />
     <Compile Include="Assets\IntoTwineHouseEvil.cs" />
+    <Compile Include="Assets\SceneControlBarn.cs" />
+    <Compile Include="Assets\SceneControlEvilFarmhouse.cs" />
     <Compile Include="Assets\SceneControlEvilJewelHouse.cs" />
+    <Compile Include="Assets\SceneControlEvilNecklaceHouse.cs" />
     <Compile Include="Assets\SceneControlEvilTwineHouse.cs" />
+    <Compile Include="Assets\SceneControlGoodFarmhouse.cs" />
     <Compile Include="Assets\SceneControlJewelHouse.cs" />
+    <Compile Include="Assets\SceneControlNecklaceHouse.cs" />
     <Compile Include="Assets\SceneControlTwineHouse.cs" />
     <Compile Include="Assets\Scripts\CarrotScript.cs" />
     <Compile Include="Assets\Scripts\FarmEvilScript.cs" />
