@@ -26,6 +26,8 @@ public class SceneControlEvilHorse : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(702f, 569.3f);
+
             SceneManager.LoadScene("InsideHouseEvil");
             
         }

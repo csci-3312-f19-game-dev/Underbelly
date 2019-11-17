@@ -1,11 +1,11 @@
 ﻿<Properties StartupConfiguration="{5733A936-B78E-724D-193A-FC793EF590B4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RockDisappear.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneControlEvilHorse.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="62" Column="1" />
-      <File FileName="Assets/FarmToTown.cs" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="58" Column="1" />
+      <File FileName="Assets/FarmToTown.cs" Line="1" Column="1" />
       <File FileName="Assets/TownGoodScript.cs" />
-      <File FileName="Assets/TownEvilScript.cs" />
-      <File FileName="Assets/SceneControlTwineHouse.cs" Line="32" Column="1" />
+      <File FileName="Assets/TownEvilScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/SceneControlTwineHouse.cs" />
       <File FileName="Assets/SceneControlEvilTwineHouse.cs" />
       <File FileName="Assets/IntoTwineHouse.cs" />
       <File FileName="Assets/IntoTwineHouseEvil.cs" />
@@ -17,23 +17,33 @@
       <File FileName="Assets/IntoNecklaceHouse.cs" />
       <File FileName="Assets/SceneControlEvilNecklaceHouse.cs" />
       <File FileName="Assets/IntoNecklaceHouseEvil.cs" />
-      <File FileName="Assets/IntoBarn.cs" />
-      <File FileName="Assets/SceneControlBarn.cs" Line="20" Column="1" />
+      <File FileName="Assets/IntoBarn.cs" Line="1" Column="1" />
+      <File FileName="Assets/SceneControlBarn.cs" />
       <File FileName="Assets/IntoEvilFarmhouse.cs" />
       <File FileName="Assets/SceneControlEvilFarmhouse.cs" />
-      <File FileName="Assets/SceneControlGoodFarmhouse.cs" Line="4" Column="34" />
-      <File FileName="Assets/Scripts/SceneControlSpawn.cs" Line="38" Column="1" />
-      <File FileName="Assets/Scripts/SceneTrackControl.cs" Line="30" Column="1" />
-      <File FileName="Assets/RockDisappear.cs" Line="13" Column="1" />
-      <File FileName="Assets/ScytheControl.cs" Line="21" Column="10" />
+      <File FileName="Assets/SceneControlGoodFarmhouse.cs" />
+      <File FileName="Assets/Scripts/SceneControlSpawn.cs" />
+      <File FileName="Assets/Scripts/SceneTrackControl.cs" />
+      <File FileName="Assets/RockDisappear.cs" />
+      <File FileName="Assets/ScytheControl.cs" Line="23" Column="8" />
+      <File FileName="Assets/Scripts/CarrotScript.cs" Line="23" Column="8" />
+      <File FileName="Assets/Scripts/KnifeScript.cs" Line="23" Column="8" />
+      <File FileName="Assets/Scripts/HorseScript.cs" Line="44" Column="1" />
+      <File FileName="Assets/Scripts/SceneControlGoodHouse.cs" Line="35" Column="1" />
+      <File FileName="Assets/Scripts/FarmEvilScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FarmGoodScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneControlEvilHouse.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/TextImporter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SceneControlEvilHorse.cs" Line="34" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Underbelly" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True" />
-              <Node name="RockDisappear.cs" selected="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="SceneControlEvilHorse.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -42,7 +52,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="676c9430-65ae-415b-aa3a-4e0e496777b7" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3f4b982f-6dc4-4ada-8fbc-54427738044b" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

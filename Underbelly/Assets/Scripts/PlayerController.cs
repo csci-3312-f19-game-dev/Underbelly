@@ -7,8 +7,7 @@ using UnityEngine.UI;
 public class PlayerController : MonoBehaviour
 {
     public static bool rocksaredead;
-    public static bool hasCarrot;
-    public static bool hasKnife;
+
     public float playerVelocity = 50.0f;
     public float hmovement = 0f;
     public float vmovement = 0f;
@@ -21,15 +20,11 @@ public class PlayerController : MonoBehaviour
 
     public static int goodBoyPoints;
 
-    public static bool carrotHidden;
-    public static bool knifeHidden;
 
     public static string inventory;
 
-    public bool canMove;
-
     public Animator animator;
-
+    
 
     Vector3 position;
 
@@ -56,12 +51,9 @@ public class PlayerController : MonoBehaviour
     {
         rocksaredead = false;
         horseGone = false;
-        knifeHidden = false;
-        carrotHidden = false;
-        position = transform.position;
-        hasCarrot = false;
-        hasKnife = false;
 
+        position = transform.position;
+ 
         inventory = "";
 
         rigidBody2D = GetComponent<Rigidbody2D>();
@@ -75,8 +67,6 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!canMove) return;
-        
         if(SceneManager.GetActiveScene().name == "HorsePuzzle" && comingFromSpawn)
         {
             HasBeenToHorsePuzzle = true;
@@ -84,18 +74,15 @@ public class PlayerController : MonoBehaviour
             transform.position = new Vector3(652.5f, 593.4f);
         }
 
-        if (SceneManager.GetActiveScene().name == "InsideHouseEvil" && FirstFrame)
-        {
-            transform.position = new Vector3(701.3f, 567.9f);
-            FirstFrame = false;
-        }
+        //if (SceneManager.GetActiveScene().name == "InsideHouseEvil" && FirstFrame)
+        //{
+        //    transform.position = new Vector3(701.3f, 567.9f);
+        //    FirstFrame = false;
+        //}
 
         //goodBoyPoints = HorseScript.goodBoyPoints; //+later goodBoyPoints in other puzzles
 
-        if (hasCarrot) hasKnife = false;
-        if (hasKnife) hasCarrot = false;
-
-
+       
         hmovement = Input.GetAxis("Horizontal");
         vmovement = Input.GetAxis("Vertical");
         rigidBody2D.velocity = new Vector2(hmovement * playerVelocity, vmovement * playerVelocity);
@@ -107,7 +94,7 @@ public class PlayerController : MonoBehaviour
         //position.x += Input.GetAxis("Horizontal") * playerVelocity * Time.deltaTime;
             //"clamp" limits the value of a variable to a min or a max value:
             //position.x = Mathf.Clamp(position.x, -100f, 100f);
-
+        
 
 
         //position.y += Input.GetAxis("Vertical") * playerVelocity * Time.deltaTime;
@@ -115,8 +102,8 @@ public class PlayerController : MonoBehaviour
             //position.y = Mathf.Clamp(position.y, -100f, 100f);
 
          //transform.position = position;
-
-
+         
+        
     }
 
 
