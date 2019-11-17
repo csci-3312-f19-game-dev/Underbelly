@@ -7,8 +7,7 @@ using UnityEngine.UI;
 public class PlayerController : MonoBehaviour
 {
     public static bool rocksaredead;
-    public static bool hasCarrot;
-    public static bool hasKnife;
+
     public float playerVelocity = 50.0f;
     public float hmovement = 0f;
     public float vmovement = 0f;
@@ -21,8 +20,6 @@ public class PlayerController : MonoBehaviour
 
     public static int goodBoyPoints;
 
-    public static bool carrotHidden;
-    public static bool knifeHidden;
 
     public static string inventory;
 
@@ -54,12 +51,9 @@ public class PlayerController : MonoBehaviour
     {
         rocksaredead = false;
         horseGone = false;
-        knifeHidden = false;
-        carrotHidden = false;
-        position = transform.position;
-        hasCarrot = false;
-        hasKnife = false;
 
+        position = transform.position;
+ 
         inventory = "";
 
         rigidBody2D = GetComponent<Rigidbody2D>();
@@ -80,16 +74,13 @@ public class PlayerController : MonoBehaviour
             transform.position = new Vector3(652.5f, 593.4f);
         }
 
-        if (SceneManager.GetActiveScene().name == "InsideHouseEvil" && FirstFrame)
-        {
-            transform.position = new Vector3(701.3f, 567.9f);
-            FirstFrame = false;
-        }
+        //if (SceneManager.GetActiveScene().name == "InsideHouseEvil" && FirstFrame)
+        //{
+        //    transform.position = new Vector3(701.3f, 567.9f);
+        //    FirstFrame = false;
+        //}
 
         //goodBoyPoints = HorseScript.goodBoyPoints; //+later goodBoyPoints in other puzzles
-
-        if (hasCarrot) hasKnife = false;
-        if (hasKnife) hasCarrot = false;
 
        
         hmovement = Input.GetAxis("Horizontal");
