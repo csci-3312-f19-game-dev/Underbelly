@@ -21,6 +21,8 @@ public class TextBoxManager : MonoBehaviour
     public int currentLine;
     public int endAtLine;
 
+    
+
     void Start()
     {
         //player = FindObjectOfType<PlayerController>();

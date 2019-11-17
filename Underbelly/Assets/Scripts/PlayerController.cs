@@ -24,7 +24,8 @@ public class PlayerController : MonoBehaviour
     public static string inventory;
 
     public Animator animator;
-    
+
+    public bool canMove;
 
     Vector3 position;
 
@@ -53,7 +54,7 @@ public class PlayerController : MonoBehaviour
         horseGone = false;
 
         position = transform.position;
- 
+
         inventory = "";
 
         rigidBody2D = GetComponent<Rigidbody2D>();
@@ -61,12 +62,15 @@ public class PlayerController : MonoBehaviour
         comingFromSpawn = true;
         FirstFrame = false;
         goodBoyPoints = 0;
-
+        canMove = true;
     }
 
     // Update is called once per frame
     void Update()
     {
+
+        if (!canMove) return;
+
         if(SceneManager.GetActiveScene().name == "HorsePuzzle" && comingFromSpawn)
         {
             HasBeenToHorsePuzzle = true;
@@ -82,7 +86,7 @@ public class PlayerController : MonoBehaviour
 
         //goodBoyPoints = HorseScript.goodBoyPoints; //+later goodBoyPoints in other puzzles
 
-       
+
         hmovement = Input.GetAxis("Horizontal");
         vmovement = Input.GetAxis("Vertical");
         rigidBody2D.velocity = new Vector2(hmovement * playerVelocity, vmovement * playerVelocity);
@@ -94,7 +98,7 @@ public class PlayerController : MonoBehaviour
         //position.x += Input.GetAxis("Horizontal") * playerVelocity * Time.deltaTime;
             //"clamp" limits the value of a variable to a min or a max value:
             //position.x = Mathf.Clamp(position.x, -100f, 100f);
-        
+
 
 
         //position.y += Input.GetAxis("Vertical") * playerVelocity * Time.deltaTime;
@@ -102,8 +106,8 @@ public class PlayerController : MonoBehaviour
             //position.y = Mathf.Clamp(position.y, -100f, 100f);
 
          //transform.position = position;
-         
-        
+
+
     }
 
 
