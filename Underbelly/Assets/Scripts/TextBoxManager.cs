@@ -21,7 +21,7 @@ public class TextBoxManager : MonoBehaviour
     public int currentLine;
     public int endAtLine;
 
-    
+
 
     void Start()
     {
@@ -43,7 +43,7 @@ public class TextBoxManager : MonoBehaviour
         if (!isActive) return;
 
         //Check when to update and hide text
-        if (currentLine > endAtLine) DisableTextBox();
+        if (currentLine >= endAtLine) DisableTextBox();
         else theText.text = textLines[currentLine];
 
         //Scroll text

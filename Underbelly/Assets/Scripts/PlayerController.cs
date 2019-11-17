@@ -110,5 +110,9 @@ public class PlayerController : MonoBehaviour
 
     }
 
+    public string getItem() {
+        return inventory;
+    }
+
 
 }
