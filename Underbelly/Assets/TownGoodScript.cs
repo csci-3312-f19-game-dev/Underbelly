@@ -8,7 +8,7 @@ public class TownGoodScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        GameObject.FindGameObjectWithTag("FieldComp").transform.position = new Vector3(0f, 0f);
     }
 
     void Update()
@@ -16,6 +16,11 @@ public class TownGoodScript : MonoBehaviour
         if (Input.GetKeyDown("space"))
         {
             SceneManager.LoadScene("TownEvil");
+        }
+        if(PlayerController.townIsEvil)
+        {
+            GameObject.FindGameObjectWithTag("FieldComp").transform.position = new Vector3(720f, 593.4f);
+            GameObject.FindGameObjectWithTag("GameController").transform.position = new Vector3(0f, 0f);
         }
     }
 

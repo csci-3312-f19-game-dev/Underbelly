@@ -1,49 +1,59 @@
 ﻿<Properties StartupConfiguration="{5733A936-B78E-724D-193A-FC793EF590B4}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneControlEvilHorse.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TwineControl.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="58" Column="1" />
-      <File FileName="Assets/FarmToTown.cs" Line="1" Column="1" />
-      <File FileName="Assets/TownGoodScript.cs" />
-      <File FileName="Assets/TownEvilScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="9" Column="1070" />
+      <File FileName="Assets/FarmToTown.cs" />
+      <File FileName="Assets/TownGoodScript.cs" Line="25" Column="6" />
+      <File FileName="Assets/TownEvilScript.cs" />
       <File FileName="Assets/SceneControlTwineHouse.cs" />
-      <File FileName="Assets/SceneControlEvilTwineHouse.cs" />
+      <File FileName="Assets/SceneControlEvilTwineHouse.cs" Line="19" Column="10" />
       <File FileName="Assets/IntoTwineHouse.cs" />
       <File FileName="Assets/IntoTwineHouseEvil.cs" />
       <File FileName="Assets/SceneControlJewelHouse.cs" />
       <File FileName="Assets/IntoJewelHouse.cs" />
       <File FileName="Assets/SceneControlEvilJewelHouse.cs" />
-      <File FileName="Assets/IntoJewelHouseEvil.cs" />
-      <File FileName="Assets/SceneControlNecklaceHouse.cs" />
+      <File FileName="Assets/IntoJewelHouseEvil.cs" Line="30" Column="1" />
+      <File FileName="Assets/SceneControlNecklaceHouse.cs" Line="1" Column="1" />
       <File FileName="Assets/IntoNecklaceHouse.cs" />
       <File FileName="Assets/SceneControlEvilNecklaceHouse.cs" />
       <File FileName="Assets/IntoNecklaceHouseEvil.cs" />
       <File FileName="Assets/IntoBarn.cs" Line="1" Column="1" />
-      <File FileName="Assets/SceneControlBarn.cs" />
-      <File FileName="Assets/IntoEvilFarmhouse.cs" />
-      <File FileName="Assets/SceneControlEvilFarmhouse.cs" />
+      <File FileName="Assets/SceneControlBarn.cs" Line="1" Column="1" />
+      <File FileName="Assets/IntoEvilFarmhouse.cs" Line="1" Column="1" />
+      <File FileName="Assets/SceneControlEvilFarmhouse.cs" Line="1" Column="1" />
       <File FileName="Assets/SceneControlGoodFarmhouse.cs" />
       <File FileName="Assets/Scripts/SceneControlSpawn.cs" />
-      <File FileName="Assets/Scripts/SceneTrackControl.cs" />
-      <File FileName="Assets/RockDisappear.cs" />
-      <File FileName="Assets/ScytheControl.cs" Line="23" Column="8" />
-      <File FileName="Assets/Scripts/CarrotScript.cs" Line="23" Column="8" />
-      <File FileName="Assets/Scripts/KnifeScript.cs" Line="23" Column="8" />
-      <File FileName="Assets/Scripts/HorseScript.cs" Line="44" Column="1" />
-      <File FileName="Assets/Scripts/SceneControlGoodHouse.cs" Line="35" Column="1" />
+      <File FileName="Assets/Scripts/SceneTrackControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/RockDisappear.cs" Line="32" Column="1" />
+      <File FileName="Assets/ScytheControl.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/CarrotScript.cs" />
+      <File FileName="Assets/Scripts/KnifeScript.cs" />
+      <File FileName="Assets/Scripts/HorseScript.cs" />
+      <File FileName="Assets/Scripts/SceneControlGoodHouse.cs" />
       <File FileName="Assets/Scripts/FarmEvilScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/FarmGoodScript.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/SceneControlEvilHouse.cs" Line="15" Column="1" />
-      <File FileName="Assets/Scripts/TextImporter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FarmGoodScript.cs" Line="45" Column="13" />
+      <File FileName="Assets/Scripts/SceneControlEvilHouse.cs" />
       <File FileName="Assets/Scripts/SceneControlEvilHorse.cs" Line="34" Column="6" />
+      <File FileName="Assets/FieldDisappear.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="127" Column="1" />
+      <File FileName="Assets/CoinControl.cs" Line="53" Column="6" />
+      <File FileName="Assets/FarmStopper.cs" Line="22" Column="1" />
+      <File FileName="Assets/EvilMayor.cs" Line="30" Column="1" />
+      <File FileName="Assets/TwineControl.cs" Line="57" Column="1" />
+      <File FileName="Assets/TwineVillagerScript.cs" Line="19" Column="1" />
+      <File FileName="Assets/NecklaceControl.cs" Line="20" Column="33" />
+      <File FileName="Assets/JewelControl.cs" Line="5" Column="1" />
+      <File FileName="Assets/NecklaceVillager.cs" Line="25" Column="2" />
+      <File FileName="Assets/JewelVillager.cs" Line="26" Column="2" />
+      <File FileName="Assets/MayorScript.cs" Line="29" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Underbelly" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="SceneControlEvilHorse.cs" selected="True" />
-              </Node>
+              <Node name="Scripts" expanded="True" />
+              <Node name="TwineControl.cs" selected="True" />
             </Node>
           </Node>
         </State>
