@@ -11,7 +11,7 @@ public class ActivateText : MonoBehaviour
     public int startLine;
     public int endLine;
 
-    public bool destroyWhenActivated;
+    //public bool destroyWhenActivated;
 
     public PlayerController player;
 
@@ -28,15 +28,17 @@ public class ActivateText : MonoBehaviour
         inventoryItem = player.getItem();
     }
 
-    void OnTriggerEnter2d(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.name == "player" && inventoryItem == item)
+        if (other.gameObject.CompareTag("Player") && inventoryItem == item)
         {
+            Debug.Log("Here");
             textManager.ReloadScript(theText);
             textManager.currentLine = startLine;
             textManager.endAtLine = endLine;
+            textManager.isActive = true;
         }
 
-        if (destroyWhenActivated) Destroy(gameObject);
+        //if (destroyWhenActivated) Destroy(gameObject);
     }
 }

@@ -25,7 +25,7 @@ public class TextBoxManager : MonoBehaviour
 
     void Start()
     {
-        //player = FindObjectOfType<PlayerController>();
+        player = FindObjectOfType<PlayerController>();
 
         //Null check
         if (textFile != null) textLines = (textFile.text.Split('\n'));
@@ -40,7 +40,8 @@ public class TextBoxManager : MonoBehaviour
     void Update()
     {
         //Check whether or not the textbox should even be updated
-        if (!isActive) return;
+        if (isActive) EnableTextBox();
+        else DisableTextBox();
 
         //Check when to update and hide text
         if (currentLine >= endAtLine) DisableTextBox();
@@ -61,6 +62,7 @@ public class TextBoxManager : MonoBehaviour
     {
         textBox.SetActive(false);
         player.canMove = true;
+        isActive = false;
     }
 
     public void ReloadScript(TextAsset theText)

@@ -69,7 +69,10 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
 
-        if (!canMove) return;
+        if (!canMove) {
+            rigidBody2D.velocity = new Vector2(0.0f, 0.0f);
+            return;
+        }
 
         if(SceneManager.GetActiveScene().name == "HorsePuzzle" && comingFromSpawn)
         {
