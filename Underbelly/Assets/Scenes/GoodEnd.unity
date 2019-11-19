@@ -411,7 +411,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Your Actions are Those of Someone who Belongs in the Underbelly
+  m_Text: Your Actions Have Freed You From the Underbelly
 --- !u!222 &578083484
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -5,10 +5,21 @@ using UnityEngine.SceneManagement;
 
 public class FarmGoodScript : MonoBehaviour
 {
+    public GameObject[] fields;
+    private int fieldCount = 0;
     // Start is called before the first frame update
     void Start()
     {
-        
+ 
+        fields = GameObject.FindGameObjectsWithTag("FieldComp");
+
+        if (PlayerController.fieldsGone)
+        {
+            foreach (GameObject field in fields)
+            {
+                field.transform.position = new Vector3(0f, 0f);
+            }
+        }
     }
 
     // Update is called once per frame
@@ -18,6 +29,22 @@ public class FarmGoodScript : MonoBehaviour
         {
             SceneManager.LoadScene("FarmEvil");
         }
+        fields = GameObject.FindGameObjectsWithTag("FieldComp");
+
+        foreach (GameObject field in fields)
+        {
+            if ((field.transform.position.x > -.01f) && (field.transform.position.x < .01f))
+            {
+                fieldCount += 1;
+            }
+        }
+        if (fieldCount == 16)
+        {
+            PlayerController.hasGold = true;
+            PlayerController.fieldsGone = true;
+            
+        }
+        fieldCount = 0;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

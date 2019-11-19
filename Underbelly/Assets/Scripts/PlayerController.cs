@@ -7,6 +7,10 @@ using UnityEngine.UI;
 public class PlayerController : MonoBehaviour
 {
     public static bool rocksaredead;
+    public static bool fieldsGone;
+    public static bool hasGold;
+    public static bool townIsEvil;
+    public static bool endGame;
 
     public float playerVelocity = 50.0f;
     public float hmovement = 0f;
@@ -50,8 +54,12 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        endGame = false;
         rocksaredead = false;
+        fieldsGone = false;
         horseGone = false;
+        hasGold = false;
+        townIsEvil = false;
 
         position = transform.position;
 
@@ -109,6 +117,16 @@ public class PlayerController : MonoBehaviour
             //position.y = Mathf.Clamp(position.y, -100f, 100f);
 
          //transform.position = position;
+         if(endGame)
+        {
+            if (goodBoyPoints >= -1)
+            {
+                SceneManager.LoadScene("GoodEnd");
+            } else
+            {
+                SceneManager.LoadScene("BadEnd");
+            }
+        }
 
 
     }
