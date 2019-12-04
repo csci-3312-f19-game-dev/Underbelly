@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -52,7 +52,7 @@ public class FarmGoodScript : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             //player.transform.position = new Vector3(701.3f, 567.9f);
-            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(750f, 593.1f);
+            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(760f, 593.1f);
 
             SceneManager.LoadScene("HorsePuzzle");
 

@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -26,7 +26,8 @@ public class SceneTrackControl : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(755f, 568f);
+            //GameObject.FindGameObjectWithTag("Horse").transform.position = new Vector3(0f,0f);
+            GameObject.FindGameObjectWithTag("Player").transform.position = new Vector3(760f, 568f);
             SceneManager.LoadScene("Spawn");
         }
     }
