@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -13,6 +13,7 @@ public class HorseScript : MonoBehaviour
     void Start()
     {
         hidden = false;
+        if(PlayerController.horseGone) hidden = true;
     }
 
     // Update is called once per frame
