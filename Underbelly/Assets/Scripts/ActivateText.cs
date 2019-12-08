@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class ActivateText : MonoBehaviour
 {
     public TextAsset theText;
+    public TextAsset defaultText;
     public string item;
     public string inventoryItem;
 
@@ -32,13 +33,15 @@ public class ActivateText : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player") && inventoryItem == item)
         {
-            Debug.Log("Here");
             textManager.ReloadScript(theText);
             textManager.currentLine = startLine;
             textManager.endAtLine = endLine;
             textManager.isActive = true;
+        } else {
+            textManager.ReloadScript(defaultText);
+            textManager.currentLine = startLine;
+            textManager.endAtLine = endLine;
+            textManager.isActive = true;
         }
-
-        //if (destroyWhenActivated) Destroy(gameObject);
     }
 }
