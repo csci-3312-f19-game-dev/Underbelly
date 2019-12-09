@@ -50,7 +50,11 @@ public class TextBoxManager : MonoBehaviour
         else DisableTextBox();
 
         //Check when to update and hide text
-        if (currentLine >= endAtLine) DisableTextBox();
+        if (currentLine >= endAtLine)
+        {
+            Debug.Log("DISABLING");
+            DisableTextBox();
+        }
         else theText.text = textLines[currentLine];
 
         //Scroll text
