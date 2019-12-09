@@ -28,7 +28,6 @@ public class FarmGoodScript : MonoBehaviour
         if (Input.GetKeyDown("space"))
         {
             SceneManager.LoadScene("FarmEvil");
-            PlayerController.bad.Play();
         }
         fields = GameObject.FindGameObjectsWithTag("FieldComp");
 

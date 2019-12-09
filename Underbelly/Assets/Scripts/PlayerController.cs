@@ -12,11 +12,6 @@ public class PlayerController : MonoBehaviour
     public static bool townIsEvil;
     public static bool endGame;
 
-    public static AudioSource good;
-    float gSlide;
-    public static AudioSource bad;
-    float bSlide;
-
     public float playerVelocity = 50.0f;
     public float hmovement = 0f;
     public float vmovement = 0f;
@@ -61,12 +56,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //gSlide = 1.0f;
-        //bSlide = 0.0f;
-        good = GetComponent<AudioSource>();
-        bad = GetComponent<AudioSource>();
-        //good.Play();
-        //bad.Play();
+        
 
         endGame = false;
         rocksaredead = false;
@@ -90,16 +80,7 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        /*if (Input.GetKeyDown("space") && gSlide == 1.0f)
-        {
-            gSlide = 0.0f;
-            bSlide = 1.0f;
-        }
-        else if(Input.GetKeyDown("space") && gSlide == 0.0f)
-        {
-            gSlide = 1.0f;
-            bSlide = 0.0f;
-        }*/
+        
 
         if (!canMove) {
             rigidBody2D.velocity = new Vector2(0.0f, 0.0f);

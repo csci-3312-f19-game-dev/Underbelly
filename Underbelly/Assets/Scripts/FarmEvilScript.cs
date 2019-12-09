@@ -17,7 +17,6 @@ public class FarmEvilScript : MonoBehaviour
         if (Input.GetKeyDown("space"))
         {
             SceneManager.LoadScene("FarmGood");
-            PlayerController.good.Play();
         }
     }
 }
