@@ -247,9 +247,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: 608737435aee40443b9fd24087f55782, type: 3}
-  defaultText: {fileID: 0}
   item: 
   inventoryItem: 
+  alwaysShow: 1
   startLine: 0
   endLine: 2
   player: {fileID: 0}
@@ -478,9 +478,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: 3fa5c15b02f13784c989749c0c957231, type: 3}
-  defaultText: {fileID: 4900000, guid: 7190927a3cb400c4599acce081557d85, type: 3}
   item: Carrot
   inventoryItem: 
+  alwaysShow: 0
   startLine: 0
   endLine: 3
   player: {fileID: 0}
@@ -498,9 +498,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: 7190927a3cb400c4599acce081557d85, type: 3}
-  defaultText: {fileID: 4900000, guid: 7190927a3cb400c4599acce081557d85, type: 3}
   item: 
   inventoryItem: 
+  alwaysShow: 0
   startLine: 0
   endLine: 3
   player: {fileID: 0}
@@ -518,9 +518,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: 8317cb8176245b946b4bdb70568b5aa9, type: 3}
-  defaultText: {fileID: 4900000, guid: 7190927a3cb400c4599acce081557d85, type: 3}
   item: Knife
   inventoryItem: 
+  alwaysShow: 0
   startLine: 0
   endLine: 3
   player: {fileID: 0}
@@ -1136,9 +1136,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: 608737435aee40443b9fd24087f55782, type: 3}
-  defaultText: {fileID: 4900000, guid: 608737435aee40443b9fd24087f55782, type: 3}
   item: 
   inventoryItem: 
+  alwaysShow: 1
   startLine: 0
   endLine: 2
   player: {fileID: 0}
@@ -1445,6 +1445,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: DialgoueManager
       objectReference: {fileID: 0}
+    - target: {fileID: 8747030216896882188, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_TagString
+      value: DialogueManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 9051857063506399995, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: textBox
+      value: 
+      objectReference: {fileID: 931186953793664898}
+    - target: {fileID: 9051857063506399995, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: theText
+      value: 
+      objectReference: {fileID: 931186953793664897}
     - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1500,15 +1515,5 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9051857063506399995, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
-        type: 3}
-      propertyPath: textBox
-      value: 
-      objectReference: {fileID: 931186953793664898}
-    - target: {fileID: 9051857063506399995, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
-        type: 3}
-      propertyPath: theText
-      value: 
-      objectReference: {fileID: 931186953793664897}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2, type: 3}

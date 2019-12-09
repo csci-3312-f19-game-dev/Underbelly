@@ -154,9 +154,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: f36c37c2af88fbb4faa4a198775adc2b, type: 3}
-  defaultText: {fileID: 4900000, guid: f36c37c2af88fbb4faa4a198775adc2b, type: 3}
-  item: 
+  item: Knife
   inventoryItem: 
+  alwaysShow: 1
   startLine: 0
   endLine: 0
   player: {fileID: 0}
@@ -323,9 +323,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: f36c37c2af88fbb4faa4a198775adc2b, type: 3}
-  defaultText: {fileID: 4900000, guid: f36c37c2af88fbb4faa4a198775adc2b, type: 3}
-  item: 
+  item: Knife
   inventoryItem: 
+  alwaysShow: 1
   startLine: 0
   endLine: 0
   player: {fileID: 0}
@@ -492,9 +492,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: f36c37c2af88fbb4faa4a198775adc2b, type: 3}
-  defaultText: {fileID: 4900000, guid: f36c37c2af88fbb4faa4a198775adc2b, type: 3}
-  item: 
+  item: Knife
   inventoryItem: 
+  alwaysShow: 1
   startLine: 0
   endLine: 0
   player: {fileID: 0}
@@ -1165,9 +1165,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: f36c37c2af88fbb4faa4a198775adc2b, type: 3}
-  defaultText: {fileID: 4900000, guid: f36c37c2af88fbb4faa4a198775adc2b, type: 3}
-  item: 
+  item: Knife
   inventoryItem: 
+  alwaysShow: 1
   startLine: 0
   endLine: 0
   player: {fileID: 0}

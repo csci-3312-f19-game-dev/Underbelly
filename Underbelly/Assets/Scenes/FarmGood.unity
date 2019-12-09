@@ -3094,14 +3094,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: f4c17d241eb93dd49a09887446e006de, type: 3}
-  defaultText: {fileID: 4900000, guid: f4c17d241eb93dd49a09887446e006de, type: 3}
-  item: 
+  item: Knife
   inventoryItem: 
+  alwaysShow: 1
   startLine: 0
   endLine: 0
   player: {fileID: 0}
-  textManager: {fileID: 9051857063506399995, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
-    type: 3}
+  textManager: {fileID: 0}
 --- !u!61 &1832353543
 BoxCollider2D:
   m_ObjectHideFlags: 0
