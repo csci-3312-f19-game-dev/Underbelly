@@ -26,6 +26,8 @@ public class ActivateText : MonoBehaviour
 
     void Update()
     {
+        player = FindObjectOfType<PlayerController>();
+        textManager = FindObjectOfType<TextBoxManager>();
         inventoryItem = player.getItem();
     }
 
