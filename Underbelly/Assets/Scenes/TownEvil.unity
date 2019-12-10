@@ -120,6 +120,158 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &626727984
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5440359460066467637, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Name
+      value: TextControl
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 71.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Text
+      value: "I seek no payment from you.\r\nMy only wish is that you help my friends
+        in their houses.\r\nIf you do this, perhaps I will help you find out who you
+        really are.\nSimpy teleport next to me and you will bring my demons to the
+        overworld."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 154
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: db472f9f3948bb448987574c28580a78, type: 3}
 --- !u!1 &786097934
 GameObject:
   m_ObjectHideFlags: 0

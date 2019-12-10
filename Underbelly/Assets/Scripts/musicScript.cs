@@ -10,10 +10,13 @@ public class musicScript : MonoBehaviour
     public AudioSource bad;
     public bool play;
 
+    //public GameObject textBox;
+
     // Start is called before the first frame update
     void Start()
     {
         play = true;
+        //textBox = GameObject.FindGameObjectsWithTag("TextBox")[0];
         //good = GetComponent<AudioSource>();
         //bad = GetComponent<AudioSource>();
         //good.Play();
@@ -38,7 +41,9 @@ public class musicScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(SceneManager.GetActiveScene().name != "Spawn")
+        //textBox = GameObject.FindGameObjectsWithTag("TextBox")[0];
+
+        if (SceneManager.GetActiveScene().name != "Spawn")
         {
             if (Input.GetKeyDown("space") && !play)
             {
@@ -46,6 +51,7 @@ public class musicScript : MonoBehaviour
                 bad.Pause();
                 play = true;
                 Debug.Log("good");
+                //textBox.SetActive(false);
             }
             else if (Input.GetKeyDown("space") && play)
             {
@@ -53,6 +59,7 @@ public class musicScript : MonoBehaviour
                 good.Pause();
                 play = false;
                 Debug.Log("bad");
+                //textBox.SetActive(false);
             }
         }
     }

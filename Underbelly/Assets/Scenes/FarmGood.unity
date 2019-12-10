@@ -2243,6 +2243,164 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1093262681
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 7313113958653903509, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Name
+      value: TextControl
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2962655076468126971, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -11.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 92.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Text
+      value: "Howdy, sir. \r\nIt's been a while since I've seen my horse.\r\nShe typically
+        helps me with these crops and this ol' back\r\ncan't handle them no mo'. \r\n\r\nIf
+        you want to help me, there's a scythe in the barn over yonder.\r\nI'll pay
+        you handsomely. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: db472f9f3948bb448987574c28580a78, type: 3}
+--- !u!1 &1093262682 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7660354968097927017, guid: db472f9f3948bb448987574c28580a78,
+    type: 3}
+  m_PrefabInstance: {fileID: 1093262681}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1152765368
 GameObject:
   m_ObjectHideFlags: 0
@@ -2390,6 +2548,85 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1254580320
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8747030216896882188, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_Name
+      value: DialgoueManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 9051857063506399995, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: textBox
+      value: 
+      objectReference: {fileID: 1093262682}
+    - target: {fileID: 9051857063506399995, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 702.73413
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 604.0228
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -572.59375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486727370977856829, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fa1362fa499d3c54fa1cd5c53a5ae3f2, type: 3}
 --- !u!1 &1296000617
 GameObject:
   m_ObjectHideFlags: 0
@@ -3095,7 +3332,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   theText: {fileID: 4900000, guid: f4c17d241eb93dd49a09887446e006de, type: 3}
-  item: Knife
+  item: 
   inventoryItem: 
   alwaysShow: 1
   startLine: 0
@@ -3115,7 +3352,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.08965729, y: -0.085175395}
+  m_Offset: {x: 0.0050772205, y: -0.085175395}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3126,7 +3363,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.5689746, y: 0.5703507}
+  m_Size: {x: 0.39981437, y: 0.5703507}
   m_EdgeRadius: 0
 --- !u!61 &1832353544
 BoxCollider2D:

@@ -7,6 +7,7 @@ TagManager:
   - FieldComp
   - Horse
   - DialogueManager
+  - TextBox
   layers:
   - Default
   - TransparentFX

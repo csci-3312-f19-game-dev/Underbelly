@@ -6,6 +6,9 @@ using UnityEngine.UI;
 
 public class TextBoxManager : MonoBehaviour
 {
+
+
+
     public GameObject textBox;
 
     public PlayerController player;
@@ -25,7 +28,7 @@ public class TextBoxManager : MonoBehaviour
 
     void Start()
     {
-        //textBox = GameObject.FindGameObjectsWithTag("TextBox")[0];
+        textBox = GameObject.FindGameObjectsWithTag("TextBox")[0];
         player = FindObjectOfType<PlayerController>();
 
         //Null check
@@ -40,7 +43,6 @@ public class TextBoxManager : MonoBehaviour
 
     void Update()
     {
-        //textBox = GameObject.FindGameObjectsWithTag("TextBox")[0];
         //Check whether or not the textbox should even be updated
         if (isActive) {
           EnableTextBox();
@@ -51,7 +53,7 @@ public class TextBoxManager : MonoBehaviour
         //Check when to update and hide text
         if (currentLine >= endAtLine)
         {
-            //Debug.Log("DISABLING");
+            Debug.Log("DISABLING");
             DisableTextBox();
         }
         else theText.text = textLines[currentLine];
@@ -65,7 +67,6 @@ public class TextBoxManager : MonoBehaviour
     {
         Debug.Log("settingVars");
         textBox.SetActive(true);
-        Debug.Log(textBox.activeSelf);
         if (stopMovement) player.canMove = false;
     }
 

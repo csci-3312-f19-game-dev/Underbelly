@@ -347,6 +347,9 @@ GameObject:
   - component: {fileID: 1007452411}
   - component: {fileID: 1007452410}
   - component: {fileID: 1007452409}
+  - component: {fileID: 1007452414}
+  - component: {fileID: 1007452413}
+  - component: {fileID: 1007452412}
   m_Layer: 0
   m_Name: EvilFarmer
   m_TagString: Untagged
@@ -437,6 +440,223 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1007452412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1007452408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c471548b050f28241b0c8ac9678da6e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theText: {fileID: 4900000, guid: ff2d801af7a31304b90d47f486c4217b, type: 3}
+  item: 
+  inventoryItem: 
+  alwaysShow: 0
+  startLine: 0
+  endLine: 0
+  player: {fileID: 0}
+  textManager: {fileID: 0}
+--- !u!61 &1007452413
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1007452408}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.0053598136, y: -0.09645468}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.3, y: 0.4}
+    newSize: {x: 0.3, y: 0.4}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.48219237, y: 0.59290934}
+  m_EdgeRadius: 0
+--- !u!61 &1007452414
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1007452408}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.3, y: 0.4}
+    newSize: {x: 0.3, y: 0.4}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.3, y: 0.4}
+  m_EdgeRadius: 0
+--- !u!1001 &1462813925
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5440359460066467637, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Name
+      value: TextControl
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -1.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 72.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Text
+      value: "Howdy, ugly.\r\nThat chump upstairs hides his money in the house.\r\nIt
+        would be mighty easy to steal with that special\r ability of yours. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: db472f9f3948bb448987574c28580a78, type: 3}
 --- !u!1 &1911801000
 GameObject:
   m_ObjectHideFlags: 0
