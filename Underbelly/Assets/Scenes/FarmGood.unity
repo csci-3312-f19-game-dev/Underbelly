@@ -2250,6 +2250,38 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 23
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -11.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 92.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_Text
+      value: "Howdy, sir. \r\nIt's been a while since I've seen my horse.\r\nIf you
+        want to help me with my crops, there's a scythe in the barn over yonder.\r\nI'll
+        pay you handsomely, and you'll need the coin to get into the town. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7313113958653903509, guid: db472f9f3948bb448987574c28580a78,
         type: 3}
       propertyPath: m_Name
@@ -2359,39 +2391,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Pivot.y
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2670732737039972323, guid: db472f9f3948bb448987574c28580a78,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 23
-      objectReference: {fileID: 0}
-    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
-        type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -11.53
-      objectReference: {fileID: 0}
-    - target: {fileID: 5520893240596014198, guid: db472f9f3948bb448987574c28580a78,
-        type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 92.26
-      objectReference: {fileID: 0}
-    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
-        type: 3}
-      propertyPath: m_Text
-      value: "Howdy, sir. \r\nIt's been a while since I've seen my horse.\r\nShe typically
-        helps me with these crops and this ol' back\r\ncan't handle them no mo'. \r\n\r\nIf
-        you want to help me, there's a scythe in the barn over yonder.\r\nI'll pay
-        you handsomely. "
-      objectReference: {fileID: 0}
-    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
-        type: 3}
-      propertyPath: m_FontData.m_FontSize
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 7660354968097927018, guid: db472f9f3948bb448987574c28580a78,
-        type: 3}
-      propertyPath: m_FontData.m_MinSize
-      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db472f9f3948bb448987574c28580a78, type: 3}
